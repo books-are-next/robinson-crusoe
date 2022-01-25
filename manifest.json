@@ -1,0 +1,569 @@
+{
+  "author": "Daniel Defoe",
+  "edition": "beletrie",
+  "identifier": "defoe-robinson-crusoe-e6515da",
+  "languagecode": "cs",
+  "modified": "2022-01-25T08:32:21.350Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Robinson Crusoe",
+  "revision": "e6515da",
+  "generatedAt": {
+    "date": "Tue Jan 25 2022 08:42:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643100168178
+  },
+  "documents": [
+    {
+      "title": "Robinson Crusoe",
+      "file": "robinson_crusoe_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "robinson_crusoe_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Robinson Crusoe",
+      "file": "robinson_crusoe_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "robinson_crusoe_001.html",
+      "next": "robinson_crusoe_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Robinson Crusoe",
+      "file": "robinson_crusoe_003.html",
+      "words": 14,
+      "chars": 94,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "robinson_crusoe_002.html",
+      "next": "robinson_crusoe_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Robinson Crusoe",
+      "file": "robinson_crusoe_004.html",
+      "words": 84,
+      "chars": 563,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "robinson_crusoe_003.html",
+      "next": "robinson_crusoe_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Robinson Crusoe",
+      "file": "robinson_crusoe_005.html",
+      "words": 2737,
+      "chars": 16123,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 4,
+      "prev": "robinson_crusoe_004.html",
+      "next": "robinson_crusoe_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Robinson Crusoe",
+      "file": "robinson_crusoe_006.html",
+      "words": 4778,
+      "chars": 28313,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 5,
+      "prev": "robinson_crusoe_005.html",
+      "next": "robinson_crusoe_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Robinson Crusoe",
+      "file": "robinson_crusoe_007.html",
+      "words": 3542,
+      "chars": 21492,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 6,
+      "prev": "robinson_crusoe_006.html",
+      "next": "robinson_crusoe_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Robinson Crusoe",
+      "file": "robinson_crusoe_008.html",
+      "words": 5323,
+      "chars": 31220,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 7,
+      "prev": "robinson_crusoe_007.html",
+      "next": "robinson_crusoe_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Robinson Crusoe",
+      "file": "robinson_crusoe_009.html",
+      "words": 4406,
+      "chars": 26416,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 8,
+      "prev": "robinson_crusoe_008.html",
+      "next": "robinson_crusoe_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Robinson Crusoe",
+      "file": "robinson_crusoe_010.html",
+      "words": 5175,
+      "chars": 30178,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 9,
+      "prev": "robinson_crusoe_009.html",
+      "next": "robinson_crusoe_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Robinson Crusoe",
+      "file": "robinson_crusoe_011.html",
+      "words": 4697,
+      "chars": 27993,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 10,
+      "prev": "robinson_crusoe_010.html",
+      "next": "robinson_crusoe_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Robinson Crusoe",
+      "file": "robinson_crusoe_012.html",
+      "words": 4652,
+      "chars": 27956,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 11,
+      "prev": "robinson_crusoe_011.html",
+      "next": "robinson_crusoe_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Robinson Crusoe",
+      "file": "robinson_crusoe_013.html",
+      "words": 5416,
+      "chars": 32912,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 12,
+      "prev": "robinson_crusoe_012.html",
+      "next": "robinson_crusoe_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Robinson Crusoe",
+      "file": "robinson_crusoe_014.html",
+      "words": 4023,
+      "chars": 23832,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 13,
+      "prev": "robinson_crusoe_013.html",
+      "next": "robinson_crusoe_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Robinson Crusoe",
+      "file": "robinson_crusoe_015.html",
+      "words": 6156,
+      "chars": 36724,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 14,
+      "prev": "robinson_crusoe_014.html",
+      "next": "robinson_crusoe_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Robinson Crusoe",
+      "file": "robinson_crusoe_016.html",
+      "words": 3786,
+      "chars": 22347,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 15,
+      "prev": "robinson_crusoe_015.html",
+      "next": "robinson_crusoe_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Robinson Crusoe",
+      "file": "robinson_crusoe_017.html",
+      "words": 4816,
+      "chars": 28886,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 16,
+      "prev": "robinson_crusoe_016.html",
+      "next": "robinson_crusoe_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Robinson Crusoe",
+      "file": "robinson_crusoe_018.html",
+      "words": 1932,
+      "chars": 11559,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 17,
+      "prev": "robinson_crusoe_017.html",
+      "next": "robinson_crusoe_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Robinson Crusoe",
+      "file": "robinson_crusoe_019.html",
+      "words": 4146,
+      "chars": 24603,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 18,
+      "prev": "robinson_crusoe_018.html",
+      "next": "robinson_crusoe_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Robinson Crusoe",
+      "file": "robinson_crusoe_020.html",
+      "words": 3037,
+      "chars": 17846,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 19,
+      "prev": "robinson_crusoe_019.html",
+      "next": "robinson_crusoe_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Robinson Crusoe",
+      "file": "robinson_crusoe_021.html",
+      "words": 3114,
+      "chars": 18628,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 20,
+      "prev": "robinson_crusoe_020.html",
+      "next": "robinson_crusoe_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Robinson Crusoe",
+      "file": "robinson_crusoe_022.html",
+      "words": 2870,
+      "chars": 16899,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 21,
+      "prev": "robinson_crusoe_021.html",
+      "next": "robinson_crusoe_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Robinson Crusoe",
+      "file": "robinson_crusoe_023.html",
+      "words": 3117,
+      "chars": 18363,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 22,
+      "prev": "robinson_crusoe_022.html",
+      "next": "robinson_crusoe_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Robinson Crusoe",
+      "file": "robinson_crusoe_024.html",
+      "words": 3050,
+      "chars": 18194,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 23,
+      "prev": "robinson_crusoe_023.html",
+      "next": "robinson_crusoe_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Robinson Crusoe",
+      "file": "robinson_crusoe_025.html",
+      "words": 3919,
+      "chars": 23502,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 24,
+      "prev": "robinson_crusoe_024.html",
+      "next": "robinson_crusoe_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Robinson Crusoe",
+      "file": "robinson_crusoe_026.html",
+      "words": 1123,
+      "chars": 7055,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 25,
+      "prev": "robinson_crusoe_025.html",
+      "next": "robinson_crusoe_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Robinson Crusoe",
+      "file": "robinson_crusoe_027.html",
+      "words": 57,
+      "chars": 381,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 26,
+      "prev": "robinson_crusoe_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 85977,
+      "chars": 512122,
+      "ideas": 972
+    },
+    "chapters": {
+      "words": 85970,
+      "chars": 512079,
+      "ideas": 967
+    }
+  }
+}
