@@ -1,1 +1,680 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Robinson Crusoe",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Daniel Defoe",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-25T08:32:21.350Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "MLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku_-12-0-\nMLP_obrazky_-12-12-",
+      "brAfter": "MLP_text_bez1radku_-0-12-\nMLP_obrazky_-12-12-",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP_titulka_prekladatel\nMLP_znak_kurziva_9b",
+      "strong": "MLP_tiraz_podnazev\nMLP_tiraz_autor_a_nazev\n",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "robinson_crusoe_001.md",
+            "xhtml": "robinson_crusoe_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_002.md",
+            "xhtml": "robinson_crusoe_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_003.md",
+            "xhtml": "robinson_crusoe_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_004.md",
+            "xhtml": "robinson_crusoe_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_005.md",
+            "xhtml": "robinson_crusoe_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_006.md",
+            "xhtml": "robinson_crusoe_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_007.md",
+            "xhtml": "robinson_crusoe_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_008.md",
+            "xhtml": "robinson_crusoe_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_009.md",
+            "xhtml": "robinson_crusoe_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_010.md",
+            "xhtml": "robinson_crusoe_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_011.md",
+            "xhtml": "robinson_crusoe_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_012.md",
+            "xhtml": "robinson_crusoe_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_013.md",
+            "xhtml": "robinson_crusoe_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_014.md",
+            "xhtml": "robinson_crusoe_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_015.md",
+            "xhtml": "robinson_crusoe_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_016.md",
+            "xhtml": "robinson_crusoe_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_017.md",
+            "xhtml": "robinson_crusoe_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_018.md",
+            "xhtml": "robinson_crusoe_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_019.md",
+            "xhtml": "robinson_crusoe_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_020.md",
+            "xhtml": "robinson_crusoe_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_021.md",
+            "xhtml": "robinson_crusoe_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_022.md",
+            "xhtml": "robinson_crusoe_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_023.md",
+            "xhtml": "robinson_crusoe_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_024.md",
+            "xhtml": "robinson_crusoe_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_025.md",
+            "xhtml": "robinson_crusoe_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_026.md",
+            "xhtml": "robinson_crusoe_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "robinson_crusoe_027.md",
+            "xhtml": "robinson_crusoe_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Robinson Crusoe",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Daniel Defoe",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-25T08:32:21.350Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_001.md",
+        "xhtml": "robinson_crusoe_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_002.md",
+        "xhtml": "robinson_crusoe_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_003.md",
+        "xhtml": "robinson_crusoe_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_004.md",
+        "xhtml": "robinson_crusoe_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_005.md",
+        "xhtml": "robinson_crusoe_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_006.md",
+        "xhtml": "robinson_crusoe_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_007.md",
+        "xhtml": "robinson_crusoe_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_008.md",
+        "xhtml": "robinson_crusoe_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_009.md",
+        "xhtml": "robinson_crusoe_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_010.md",
+        "xhtml": "robinson_crusoe_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_011.md",
+        "xhtml": "robinson_crusoe_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_012.md",
+        "xhtml": "robinson_crusoe_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_013.md",
+        "xhtml": "robinson_crusoe_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_014.md",
+        "xhtml": "robinson_crusoe_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_015.md",
+        "xhtml": "robinson_crusoe_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_016.md",
+        "xhtml": "robinson_crusoe_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_017.md",
+        "xhtml": "robinson_crusoe_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_018.md",
+        "xhtml": "robinson_crusoe_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_019.md",
+        "xhtml": "robinson_crusoe_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_020.md",
+        "xhtml": "robinson_crusoe_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_021.md",
+        "xhtml": "robinson_crusoe_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_022.md",
+        "xhtml": "robinson_crusoe_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_023.md",
+        "xhtml": "robinson_crusoe_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_024.md",
+        "xhtml": "robinson_crusoe_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_025.md",
+        "xhtml": "robinson_crusoe_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_026.md",
+        "xhtml": "robinson_crusoe_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "robinson_crusoe_027.md",
+        "xhtml": "robinson_crusoe_027.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_robinson_crusoe.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_007.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_021.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_022.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_023.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_024.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_033.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_035.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_040.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_044.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_045.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_054.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_088.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_099.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_101.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_104.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_106.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_107.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_109.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_113.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_119.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_120.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_121.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_123.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_124.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_128.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_132.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_135.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_137.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/robinson_crusoe_139.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-4",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_obrazky_-12-12-",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-10",
+      "_idGenObjectAttribute-11",
+      "_idGenObjectAttribute-12",
+      "_idGenObjectAttribute-13",
+      "_idGenObjectAttribute-14",
+      "_idGenObjectAttribute-15",
+      "_idGenObjectAttribute-16",
+      "_idGenObjectAttribute-17",
+      "_idGenObjectAttribute-18",
+      "_idGenObjectAttribute-19",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-20",
+      "_idGenObjectAttribute-21",
+      "_idGenObjectAttribute-22",
+      "_idGenObjectAttribute-23",
+      "_idGenObjectAttribute-24",
+      "_idGenObjectAttribute-25",
+      "_idGenObjectAttribute-26",
+      "_idGenObjectAttribute-27",
+      "_idGenObjectAttribute-28",
+      "_idGenObjectAttribute-29",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectAttribute-30",
+      "_idGenObjectAttribute-31",
+      "_idGenObjectAttribute-4",
+      "_idGenObjectAttribute-5",
+      "_idGenObjectAttribute-6",
+      "_idGenObjectAttribute-7",
+      "_idGenObjectAttribute-8",
+      "_idGenObjectAttribute-9",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "robinson-crusoe"
+    },
+    "generatedAt": 1643099541892
+  }
+}
