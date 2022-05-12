@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Radost Robinsonovu bylo by ovšem těžko vypisovat. Byli takto náhle vysvobozeni z beznadějného stavu. Nabídl okamžitě vše i s loďkou kapitánovi. Ale ten to velkodušně odmítl. Poctivý muž prohlásil, že zachránit ztroskotance je povinností každého námořníka, jenž nikdy neví, kdy se snad ocitne v podobném postavení a bude také potřebovat zachránce. Sliboval, že všechno Robinsonovo zboží i s loďkou uschová a jemu v Brazílii vrátí.

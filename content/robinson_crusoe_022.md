@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Robinson ovšem považoval za povinnost stát se misionářem a obrátit Pátka na křesťanství. Ale měl značné obtíže, aby mu učinil jasným, oč jde.

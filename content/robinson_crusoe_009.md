@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Několik následujících dní strávil obchůzkami po okolí, hledaje vhodnější místo pro své konečné usídlení. Neboť místo, kde zřídil svoje skladiště, se k trvalému usídlení rozhodně nehodilo. Bylo příliš blízko u říčky, do níž vtékal příliv, vlhké a dusné a jistě nezdravé. Voda nebyla valná ani v době největšího odlivu. Potřeboval rozhodně místo, kde by bylo co nejzdravěji, kde by byla dobrá pitná voda, ochrana před sluncem a před bouří, ale přece ne dusné parno pařivé houštiny, ochrana před útoky zvěře i lidí, a konečně blízký volný rozhled na moře, aby nezameškal příležitosti, kdyby se k ostrovu přiblížila nějaká loď.

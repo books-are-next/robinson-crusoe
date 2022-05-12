@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 Tak strávil na ostrově již dvaadvacet roků. Čas utekl mu mnohem rychleji nežli si lze představit. Jeho práce, podniky, dobrodružství a neustálá zaměstnání při vymýšlení a zdokonalování životních pomůcek zabraly mu tolik času, že neměl kdy oddávat se trudům a marným dumám. Měl také dosti společnosti – čím dále tím více.

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Znění tohoto textu vychází z díla [Život a podivuhodné příběhy Robinsona Crusoë](https://search.mlp.cz/cz/titul/zivot-a-podivuhodne-pribehy-robinsona-crusoe-namornika-z-yorku-jenz-zil-dvacet-osm-let-samoten-na-neobydlenem-ostrove/3805589/#/)… tak, jak bylo vydáno nakladatelstvím Rodina v Praze v roce 1932. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.

@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Po dlouhém přemýšlení ptal se Robinson, jak by Španělé přijali jeho pomoc k útěku. Netajil se, že má vůči nim aspoň stejné obavy, jako k indiánům.

@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Když dokončoval tuto práci, dostal se Robinson jednoho dne až ke konci ohrady u skály. A byl náhle velmi překvapen, když zde místo obyčejného býlí nalezl – stébla a klasy ječmene! Skutečného, pravého anglického ječmene!

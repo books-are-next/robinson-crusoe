@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Robinson Crusoe
@@ -13,7 +14,7 @@ meta:
   languageCode: cs
 readingOrder:
   - robinson_crusoe_001.html
-  - robinson_crusoe_002.html
+  - promo.html
   - robinson_crusoe_003.html
   - robinson_crusoe_004.html
   - robinson_crusoe_005.html

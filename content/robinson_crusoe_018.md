@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Jeho duševní čilost a vynalézavost vrátily se tak opět na původní koleje. Pracoval se zájmem na svých domácích pracích, na zdokonalení svých vymožeností a na zlepšení svého stavu. A na mnohém z toho, nač dosud sice časem pomýšlel, ale k čemu se dosud nedostal.

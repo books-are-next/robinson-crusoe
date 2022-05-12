@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Ale všechna tato opatření byla zbytečná a Robinson to pochopil velmi brzy a litoval jich. Nikdy snad neměl nikdo oddanějšího sluhy a věrnějšího přítele, nežli jakým se zachráněný indián ukázal vůči němu. Hned ráno druhého dne poznal Robinson svůj omyl z dětinsky příchylného chování svého chráněnce, jenž patrně uhodl jeho obavy a snažil se všemožně dát mu najevo svoji lásku a věrnost. Dojatý Robinson usmyslil si napravit svoji chybu, a aby ukázal svoji důvěru a vzájemnou příchylnost, vyhledal ve své zbrojírně dobrý nůž a sekerku a dal je svému chráněnci spolu se svým zásobním opaskem. Když obdarovaný pochopil, že mu zbraně dává a že jsou jeho, neměla jeho radost a vděčnost mezí. Robinson zavedl jej ke svému brusu a ukázal mu jeho užití, nabrousiv nůž před jeho zrakem co nejdokonaleji nejdříve na velkém brusu a pak na malém, ručním brousku, jímž mu dodal hladkého ostří. A byl sám nesmírně potěšen, vida, s jakou radostí se divoch pustil do broušení své sekery, nápodobě ostří, jak je viděl na příruční sekeře Robinsonově, kterou si vypůjčil. Počínal si při tom tak obratně, že Robinson nevycházel z údivu nad divochem, který projevoval při všem tolik inteligence, že by mu byl mohl každý londýnský měšťák závidět.

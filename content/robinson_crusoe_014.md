@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Byly krásné dny a měl štěstí, že ani tohoto, ani následujícího dne nepršelo. Pec vychládala opravdu pomalu. Třetího dne dostavil se déšť, ale ukázalo se, že vůbec nepronikal do mastného jílu břehu a převislý povlak drnu nahoře chránil i přední stěnu od deště. Ještě třetího dne byla pec horká. Ačkoliv sám žhnul netrpělivostí hůře nežli jeho pec, zdržel Robinson přece svoji dychtivost a teprve čtvrtého dne přistoupil k otevření pece. Když však vylomil ze stěny první kus vypálené a spečené hlíny, viděl, že je uvnitř dosud velmi horká. Rychle ji tedy vrátil na své místo a přikročil k ponenáhlému ochlazování nitra pece tím, že prorazil malý otvor do hradby, jíž ucpal topeniště. Vnikající vzduch se ovšem oteplil, ale pomalu musil ochladit topeniště a pak i pec. Potom vylámal podobný otvor i do přední zdi, a konečně šestého dne po zapálení otevřel pec docela.

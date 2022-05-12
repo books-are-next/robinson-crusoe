@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Cesta uplynula šťastně a 11. června 1685 vstoupil Robinson jako padesátiletý muž na půdu své vlasti. Ovšem, jako téměř úplný cizinec.
