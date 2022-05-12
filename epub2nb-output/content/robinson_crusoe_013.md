@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Tentokráte trvala jarní dešťová doba mnohem kratčeji nežli loňská – snad následkem větrů, jež vály více od západu. Robinson strávil ji mnohými pracemi, na něž pomýšlel podle zkušenosti minulého období. Měl tentokráte mnohem méně sušeného ovoce – zaměstnání a zábava s kozami a jeho cesta daly mu zapomenout na toto opatření – ale měl přece dosti banánů zavěšených pod střechou a více nežli dosti kokosových ořechů. Umínil si ovšem, že se mu podobná neopatrnost vícekráte přihodit nesmí.

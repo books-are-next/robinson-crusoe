@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 „Pane, pane,“ volal Pátek, „jsou tu! Jsou tu! – Tam! Jedna – dvě, tři kanoe, jedna – dvě, tři!“ a ukazoval ven ke břehu. Divoši přistáli opět, a tentokráte velmi blízko obydlí.

@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Ale osud rozhodl opět jinak.

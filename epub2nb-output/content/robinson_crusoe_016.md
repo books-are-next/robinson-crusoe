@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Avšak osud chystal Robinsonovi příhodu, která měla celý jeho život velmi důkladně převrátit a postarat se, aby nepropadl duševnímu zpohodlnění.

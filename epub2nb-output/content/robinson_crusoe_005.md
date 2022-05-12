@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Roku 1651 potuloval se po přístavních nábřežích anglického města Hullu devatenáctiletý mladík a pozoroval se zájmem čilý ruch přístavu a hlavně množství lodí, jejichž stožáry a ráhna zdála se tvořit celý fantastický les.

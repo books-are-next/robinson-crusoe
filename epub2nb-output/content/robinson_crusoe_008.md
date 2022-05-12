@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Dlouho ležel omámen a neschopen myšlenky. Potom si uvědomil, že hledí k obloze a že se mu nad hlavou honí mraky. Je jistě nemožno líčit vzrušené nadšení člověka uniklého smrti po dlouhém zápasu. Kdo to zažil, pochopí, proč dříve, když byla nešťastníkovi pod šibenicí v posledním okamžení dána milost, zároveň poslali pro lékaře, aby mu pustil žilou a zachránil ho před mrtvicí.

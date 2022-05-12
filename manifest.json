@@ -1,16 +1,47 @@
 {
-  "author": "Daniel Defoe",
-  "edition": "beletrie",
-  "identifier": "defoe-robinson-crusoe-e6515da",
-  "languagecode": "cs",
-  "modified": "2022-01-25T08:32:21.350Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Robinson Crusoe",
-  "revision": "e6515da",
+  "author": "Daniel Defoe",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "defoe-robinson-crusoe-84a6fba",
+  "revision": "84a6fba",
+  "readingOrder": [
+    "robinson_crusoe_001.html",
+    "promo.html",
+    "robinson_crusoe_003.html",
+    "robinson_crusoe_004.html",
+    "robinson_crusoe_005.html",
+    "robinson_crusoe_006.html",
+    "robinson_crusoe_007.html",
+    "robinson_crusoe_008.html",
+    "robinson_crusoe_009.html",
+    "robinson_crusoe_010.html",
+    "robinson_crusoe_011.html",
+    "robinson_crusoe_012.html",
+    "robinson_crusoe_013.html",
+    "robinson_crusoe_014.html",
+    "robinson_crusoe_015.html",
+    "robinson_crusoe_016.html",
+    "robinson_crusoe_017.html",
+    "robinson_crusoe_018.html",
+    "robinson_crusoe_019.html",
+    "robinson_crusoe_020.html",
+    "robinson_crusoe_021.html",
+    "robinson_crusoe_022.html",
+    "robinson_crusoe_023.html",
+    "robinson_crusoe_024.html",
+    "robinson_crusoe_025.html",
+    "robinson_crusoe_026.html",
+    "robinson_crusoe_027.html"
+  ],
   "generatedAt": {
-    "date": "Tue Jan 25 2022 08:42:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643100168178
+    "date": "Thu May 12 2022 10:38:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351912492
   },
   "documents": [
     {
@@ -22,7 +53,7 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "robinson_crusoe_002.html",
+      "next": "promo.html",
       "toc": [
         {
           "index": 0,
@@ -34,8 +65,8 @@
       ]
     },
     {
-      "title": "Robinson Crusoe",
-      "file": "robinson_crusoe_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -43,15 +74,7 @@
       "order": 1,
       "prev": "robinson_crusoe_001.html",
       "next": "robinson_crusoe_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Robinson Crusoe",
@@ -61,7 +84,7 @@
       "ideas": 4,
       "role": "chapter",
       "order": 2,
-      "prev": "robinson_crusoe_002.html",
+      "prev": "promo.html",
       "next": "robinson_crusoe_004.html",
       "toc": [
         {
@@ -94,7 +117,7 @@
       ]
     },
     {
-      "title": "I • Robinson Crusoe",
+      "title": "I",
       "file": "robinson_crusoe_005.html",
       "words": 2737,
       "chars": 16123,
@@ -114,7 +137,7 @@
       ]
     },
     {
-      "title": "II • Robinson Crusoe",
+      "title": "II",
       "file": "robinson_crusoe_006.html",
       "words": 4778,
       "chars": 28313,
@@ -134,7 +157,7 @@
       ]
     },
     {
-      "title": "III • Robinson Crusoe",
+      "title": "III",
       "file": "robinson_crusoe_007.html",
       "words": 3542,
       "chars": 21492,
@@ -154,7 +177,7 @@
       ]
     },
     {
-      "title": "IV • Robinson Crusoe",
+      "title": "IV",
       "file": "robinson_crusoe_008.html",
       "words": 5323,
       "chars": 31220,
@@ -174,7 +197,7 @@
       ]
     },
     {
-      "title": "V • Robinson Crusoe",
+      "title": "V",
       "file": "robinson_crusoe_009.html",
       "words": 4406,
       "chars": 26416,
@@ -194,7 +217,7 @@
       ]
     },
     {
-      "title": "VI • Robinson Crusoe",
+      "title": "VI",
       "file": "robinson_crusoe_010.html",
       "words": 5175,
       "chars": 30178,
@@ -214,7 +237,7 @@
       ]
     },
     {
-      "title": "VII • Robinson Crusoe",
+      "title": "VII",
       "file": "robinson_crusoe_011.html",
       "words": 4697,
       "chars": 27993,
@@ -234,7 +257,7 @@
       ]
     },
     {
-      "title": "VIII • Robinson Crusoe",
+      "title": "VIII",
       "file": "robinson_crusoe_012.html",
       "words": 4652,
       "chars": 27956,
@@ -254,7 +277,7 @@
       ]
     },
     {
-      "title": "IX • Robinson Crusoe",
+      "title": "IX",
       "file": "robinson_crusoe_013.html",
       "words": 5416,
       "chars": 32912,
@@ -274,7 +297,7 @@
       ]
     },
     {
-      "title": "X • Robinson Crusoe",
+      "title": "X",
       "file": "robinson_crusoe_014.html",
       "words": 4023,
       "chars": 23832,
@@ -294,7 +317,7 @@
       ]
     },
     {
-      "title": "XI • Robinson Crusoe",
+      "title": "XI",
       "file": "robinson_crusoe_015.html",
       "words": 6156,
       "chars": 36724,
@@ -314,7 +337,7 @@
       ]
     },
     {
-      "title": "XII • Robinson Crusoe",
+      "title": "XII",
       "file": "robinson_crusoe_016.html",
       "words": 3786,
       "chars": 22347,
@@ -334,7 +357,7 @@
       ]
     },
     {
-      "title": "XIII • Robinson Crusoe",
+      "title": "XIII",
       "file": "robinson_crusoe_017.html",
       "words": 4816,
       "chars": 28886,
@@ -354,7 +377,7 @@
       ]
     },
     {
-      "title": "XIV • Robinson Crusoe",
+      "title": "XIV",
       "file": "robinson_crusoe_018.html",
       "words": 1932,
       "chars": 11559,
@@ -374,7 +397,7 @@
       ]
     },
     {
-      "title": "XV • Robinson Crusoe",
+      "title": "XV",
       "file": "robinson_crusoe_019.html",
       "words": 4146,
       "chars": 24603,
@@ -394,7 +417,7 @@
       ]
     },
     {
-      "title": "XVI • Robinson Crusoe",
+      "title": "XVI",
       "file": "robinson_crusoe_020.html",
       "words": 3037,
       "chars": 17846,
@@ -414,7 +437,7 @@
       ]
     },
     {
-      "title": "XVII • Robinson Crusoe",
+      "title": "XVII",
       "file": "robinson_crusoe_021.html",
       "words": 3114,
       "chars": 18628,
@@ -434,7 +457,7 @@
       ]
     },
     {
-      "title": "XVIII • Robinson Crusoe",
+      "title": "XVIII",
       "file": "robinson_crusoe_022.html",
       "words": 2870,
       "chars": 16899,
@@ -454,7 +477,7 @@
       ]
     },
     {
-      "title": "XIX • Robinson Crusoe",
+      "title": "XIX",
       "file": "robinson_crusoe_023.html",
       "words": 3117,
       "chars": 18363,
@@ -474,7 +497,7 @@
       ]
     },
     {
-      "title": "XX • Robinson Crusoe",
+      "title": "XX",
       "file": "robinson_crusoe_024.html",
       "words": 3050,
       "chars": 18194,
@@ -494,7 +517,7 @@
       ]
     },
     {
-      "title": "XXI • Robinson Crusoe",
+      "title": "XXI",
       "file": "robinson_crusoe_025.html",
       "words": 3919,
       "chars": 23502,
@@ -514,7 +537,7 @@
       ]
     },
     {
-      "title": "XXII • Robinson Crusoe",
+      "title": "XXII",
       "file": "robinson_crusoe_026.html",
       "words": 1123,
       "chars": 7055,

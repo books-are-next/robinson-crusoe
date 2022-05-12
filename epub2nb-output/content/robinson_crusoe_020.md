@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Uplynulo opět několik měsíců klidného života, v němž není co zvláštního nebo nového povědět. Až jednoho rána. 

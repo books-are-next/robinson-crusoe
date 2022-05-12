@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Hosté byli vším, co viděli, v nejvyšší míře udiveni. Zvláště však důmyslným způsobem, jímž si Robinson udělal z lesíku pevnost téměř nedobytnou pro jiné zbraně mimo snad těžké dělo. Více nežli dvacetileté tropické stromy byly teď již mohutnými kmeny, mezi nimiž trčelo mnoho slabších, úplně udušených stromků; zbylé stromy byly větvemi a na okrajích i různými popínavými rostlinami tak propleteny, že tvořily na pohled přirozenou houšť, ale vpravdě byly tak neprostupnou zdí, že bylo možno dostat se na druhou stranu jenom cestou Robinsonem zřízenou. A šťavnaté kmeny nebylo možno ani zapálit, takže byla tvrz bezpečná před útokem ohněm.

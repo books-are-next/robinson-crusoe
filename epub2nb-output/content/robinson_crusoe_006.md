@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 V Londýně měl Robinson zvláštní štěstí. Seznámil se s kapitánem lodi, která obchodovala se Západní Afrikou. Bodrý muž vrátil se nedávno z cesty s velmi šťastným výsledkem a chystal se nastoupit novou, od níž si sliboval výdělek ještě větší. V dobré náladě nabídl Robinsonovi, s nímž se v hostinci při sklence znamenitě pobavil, aby jel s ním. Nabídl mu volnou stravu – za kterou mu může pomoci vést obchodní knihy – a vyzval ho, aby za všechny peníze, které bude moci sehnat, nakoupil různých levných tretek, které lze černochům v Africe prodat s tisíceronásobným výdělkem. Robinson věděl, že má jeho matka v Londýně příbuzné a podařilo se mu je nalézt a přimět, aby mu na cestu přispěli menší částkou peněz. Celkem měl tolik, že mohl opatřit malou zásobu nejlevnějších předmětů, přičemž mu jeho nový přítel mohl velmi prospěšně poradit i pomoci.
