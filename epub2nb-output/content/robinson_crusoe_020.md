@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Uplynulo opět několik měsíců klidného života, v němž není co zvláštního nebo nového povědět. Až jednoho rána. 
 
 Robinson vystoupil opět jednou na svoji rozhlednu na skále nad svým domem, jak od příhody se ztroskotanou lodí činil častěji, napolo v naději, že uzří nějakou loď. A spatřil na jihozápadní straně ostrova sloup kouře. Daleko, o hodně dále, nežli divoši přistáli posledně, ale přece na jeho straně, kdesi za hřbetem, kde kdysi lovil kozla.
@@ -25,11 +27,15 @@ Robinson viděl, že uprchlík hodlá patrně oběhnout ostroh, na němž on sá
 
 Robinson skrčil se za keř a když se oba pronásledovatelé objevili kolem skály, vyrazil náhle a udeřil prvního kolbou pušky do hlavy. Bál se užít střelby, ačkoliv byli divoši daleko odtud, a to na druhé straně dosti vysokého hřbetu, a byli by výstřel sotva mohli slyšet.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_106.jpg)
 
-  
+</section>
+
+<section>
 
 Druhý divoch stanul, ale zdvihl oštěp a rozmachoval se k vrhu. A tak byl Robinson nucen k výstřelu a skolil jej rychle vypálenou ranou. A ohlédl se po uprchlíku. Stál tu, jakoby proměněn v sloup, a byl patrně ranou a bleskem ručnice tak uleknut, že se nehnul z místa. Robinson mu vlídně kynul, divoch však vypadal, jako by byl mnohem ochotnější utéci, nežli přijít blíže. Robinson postavil pušku kolbou na zemi a kynul mu znovu. Zachráněnec učinil krok kupředu, stanul, učinil opět několik kroku – a konečně přišel blíže a vrhl se na zemi na kolena a na tvář, rozpínaje ruce na zemi. Robinson šel k němu blíže, kyna mu neustále, a mluvě naň co nejpřívětivějším hlasem. Divoch vstal, přišel až k Robinsonovi, a vrhl se na zemi znovu. Když pak Robinson přistoupil až k němu, vzal divoch jeho nohu a položil si ji na šíji do týla, naznačuje tak patrně, že chce být otrokem svého zachranitele.
 
@@ -39,11 +45,15 @@ Robinson zdvihl šavli a chtěl divochu dát pokyn, aby odtud raději co nejryc
 
 Zachráněnec mu odebral plochý kyj či meč, jímž byl ozbrojen, a pak si vzal kopí druhého nepřítele a vrátil se k Robinsonovi. Vypadal teď náhle docela jinak. Vztyčen, s hlavou zdviženou, a s vypjatou, krásnou hrudí šel jako vítěz. – Na Robinsonův pokyn k odchodu zavrtěl hlavou a ukázal na mrtvé – pak dozadu, odkud sem přiběhli – a pak na písek na břehu zátočiny. Patrně je chtěl zahrabat, aby nebyli nalezeni. A učinil to s rychlostí, při níž Robinson zíral v údivu nad jeho obratností a silou, s níž vyhrabal svým mečem jámu, a s níž zdvihal a odnášel těžká těla. A nad chytrou dovedností, s níž zahladil všechny stopy tak, že po nich nezbylo památky, načež nadělal nové přímo k moři. – A pak, směje se, vrátil se k svému zachraniteli. Robinson vedl jej rychle odtud, houštinami, jimiž šel nahý a bosý divoch podle všeho pohodlněji nežli dobře obutý a silným, koženým oděvem chráněný Robinson, který si přece již myslil, že se za léta svého pobytu na ostrově stal velmi obratným zálesákem, ne-li lesním mužem.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_107.jpg)
 
-  
+</section>
+
+<section>
 
 Nevedl však divocha do svého domu, ale velkou oklikou, daleko od všech svých ohrad a polí, přímo k severu a odtud pak ke své jeskyni. Šlo mu o to, aby neuvedli slídící snad nepřátele na stopu obydlí. V jeskyni dal svému chráněnci občerstvení ze zásob, jež tu choval – sušeného ovoce a sucharů. Vody se napili již cestou z potoka, a Robinson obdivoval znovu divochovu tělesnou zdatnost. Neboť podle toho, jak pil dlouho a vydatně, čině však z počátku malé doušky a dlouhé přestávky – bylo patrno, že byl skoro polomrtev žízní, nedostal patrně na celé cestě po moři a snad již předtím pít. A přece byl zdánlivě svěží a bystrý a předčil své pronásledovatele jako chrt řeznického psa. Teprve teď, když se posadil, viděl Robinson, jak děsně je unaven. Robinson mu pokynul, aby si lehl, ukazuje do kouta, kde měl prosté lože, připravené k občasnému použití – otep slámy, pokryté plachtovinou a lodnickou pokrývkou. Divoch ulehl, jeho oči ještě zazářily na svého ochránce, a v nejbližším okamžení spal jako mrtvý.
 
@@ -78,3 +88,5 @@ Ukázal svému hosti zajímavosti svého domu a těšil se z obdivu a radosti
 Na noc mu postavil z několika tyčí a z malé plachty stan v zevní ohradě a dal mu tam donést otep slámy a pokrývku. A povečeřev s ním upečeného krocana, chleba a kozího mléka, dal mu ještě jednu ze svých hliněných nádob na pitnou vodu a poslal jej spát.
 
 Do vnější ohrady ústily postranní dveře z chodby, která spojovala skalní, jeskyňovitou část Robinsonova domu s vnějškem. Zatarasil je teď pečlivě z vnitřku a stáhl také žebřík, aby jeho chráněnec nemohl k němu. Byl to přece jen divoch a lidojed a Robinson neměl a nesměl dosud mít plnou důvěru.
+
+</section>

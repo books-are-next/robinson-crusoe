@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Robinson ovšem považoval za povinnost stát se misionářem a obrátit Pátka na křesťanství. Ale měl značné obtíže, aby mu učinil jasným, oč jde.
 
 Tázán, kdo jej stvořil, nerozuměl Pátek, a potom myslil, že je tázán na svého otce. Tázán, kdo udělal zemi a moře a vše ostatní, řekl, že „Benamuký“. A když se Robinson snažil opravit mu představu o Bohu, Stvořiteli nebe i země, který je věčný a pánem všeho světa, odpovídal Pátek, že to udělal Benamuký, který je starší nežli všechno a který vládne všemu živému. Tázán, proč se tedy k tomuto Benamuký nemodlí, řekl: „Všechny věci mu říkají ‚Ó!‘“– Poučován o nebi, prohlásil, že všichni lidé přijdou po smrti k Benamuký. Také ti, kdo byli snědeni. A ať se pokusil Robinson o jakékoliv náboženské poučení, Pátkovo neustálé, spokojeně opakované „Benamuký“ uvádělo jej v zoufalství. Nedocílil, aby „pohan“ pochopil, že je mezi Robinsonovým Bohem Otcem a jeho „Starým Benamukým“ vůbec nějaký rozdíl.
@@ -75,12 +77,18 @@ Při všech těchto přípravách k odjezdu nijak domácnost nezanedbávali. Sk
 
 Konečně byla vhodná doba k výpravě zde. Doba bouří i prudkých větrů minula a počasí se ustálilo, přípravy byly hotovy a oba mořeplavci chystali zásoby na cestu. A Pátek vyšel jednou ráno na břeh, aby se poohlédl po nějaké želvě, které se v tuto dobu nejspíše na jižním břehu ukazovaly. Ale náhle se vrátil, a rychlost, jíž přelezl ohradu, prozradila hned, že jde o něco zvláštního.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_119.jpg)
 
-  
+</section>
+
+<section>
 
 * * *
 
 [23](./resources/undefined) Velmi pevná ševcovská nit, umotaná z několika lněných nebo konopných vláken a promazaná ševcovskou smolou. _Pozn. red._
+
+</section>

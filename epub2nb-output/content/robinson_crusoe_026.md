@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Cesta uplynula šťastně a 11. června 1685 vstoupil Robinson jako padesátiletý muž na půdu své vlasti. Ovšem, jako téměř úplný cizinec.
 
 Jeho otec i matka byli již dávno mrtvi, z celé rodiny žily jen jeho dvě sestry a dvě děti po starším bratru. Protože ho pokládali za mrtvého, rozdělili se o jeho dědický podíl a on neměl chuti jim jej teď brát. A tak byl téměř bez prostředků, neboť peníze z ostrova přivezené nestačily k založení existence.
@@ -37,6 +39,10 @@ Osada žila spokojeně, prodělala hrozný útok tří set Karibů, ale s náho
 
 A Robinson vedl dlouho velmi spokojený, ale až do stáří pohnutý život.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_139.jpg)
+
+</section>

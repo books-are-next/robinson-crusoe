@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Hosté byli vším, co viděli, v nejvyšší míře udiveni. Zvláště však důmyslným způsobem, jímž si Robinson udělal z lesíku pevnost téměř nedobytnou pro jiné zbraně mimo snad těžké dělo. Více nežli dvacetileté tropické stromy byly teď již mohutnými kmeny, mezi nimiž trčelo mnoho slabších, úplně udušených stromků; zbylé stromy byly větvemi a na okrajích i různými popínavými rostlinami tak propleteny, že tvořily na pohled přirozenou houšť, ale vpravdě byly tak neprostupnou zdí, že bylo možno dostat se na druhou stranu jenom cestou Robinsonem zřízenou. A šťavnaté kmeny nebylo možno ani zapálit, takže byla tvrz bezpečná před útokem ohněm.
 
 Kapitán sdělil, že šestnáct lodníků zbylých na lodi, skuteční to vzbouřenci i jimi svedení lidé, s novým kapitánem, budou se bránit tím zuřivěji, čím lépe vědí, že jakožto vzbouřenci propadli životem zákonu, a jsou tudíž v zoufalém postavení, protože při návratu do Anglie budou posláni buď na galeje, anebo do kolonií. Proto soudil, že by byl útok na ně při skrovném počtu útočných sil šílenstvím.
@@ -39,11 +41,15 @@ V nočním tichu bylo je slyšet naříkat na tento prokletý a patrně zaklet
 
 Když se rozednilo, bylo je vidět pobíhat po břehu. Byli poplašeni, nedovedli již jednat opatrně a s rozmyslem. Kapitánovi druzi, teď opět k povinnosti navrácení, hořeli touhou vrhnout se na ně hned, ale ani kapitán ani Robinson neměli chuti k zbytečnému krveprolévání, ani k tomu, aby vystavovali vlastní životy zbytečnému nebezpečí. Kapitán budil Robinsonův opravdový obdiv. Jak tvrdě a neohroženě dovedl udeřit, když bylo potřebí, tak dobrosrdečným se jevil, kdekoliv se to mohlo stát. A tak vymyslili Robinson s kapitánem nový plán.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_132.jpg)
 
-  
+</section>
+
+<section>
 
 Kapitán s Pátkem obešli opět opatrně les a připlížili se, lezouce po čtyřech, na místo předem vyhlédnuté, kde byli vzbouřencům značně blízko. Tam měli čekat na vhodnou chvíli, aby se vmísili do událostí a tak vzbudili domněnku, že je tu proti vzbouřencům velmi značná síla. – Ale věc se vyvinula jinak, nežli byla chystána. – Kapitán s Pátkem došli sotva na své místo, když uzřeli blížit se k sobě vrchního člunaře, vůdce vzpoury a nejstatečnějšího ze všech, spolu se dvěma jinými lodníky. Vida jej, označil ho kapitán Pátkovi, o němž již věděl, že je znamenitým střelcem, a sám si vybral jednoho z druhých. Náhle padly dvě rány a člunař a lodník klesli, člunař na místě mrtev a lodník zraněn tak těžce kulí, prolétnuvší mu tělem, že zemřel za několik hodin. Třetí se obrátil a prchl nezraněn.
 
@@ -93,11 +99,15 @@ Loď kotvila teď na půl míle od břehu, proti ústí malé zátoky a potoka,
 
 Bylo by marno líčit Robinsonovo dojetí, když viděl svoje konečné osvobození takřka přede dveřmi svého domu – Vzrušením blízek mdlobě byl nucen držet se kapitána, aby neupadl. Teprve když jej kapitán posadil na zemi a občerstvil douškem z lahvice, kterou vzal z kapsy, vzpamatoval se ubohý vyhnanec; ale trvalo dlouho, nežli byl schopen promluvit.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_135.jpg)
 
-  
+</section>
+
+<section>
 
 Kapitán dal vylodit a přivézt na břeh celý náklad zásob jako dar pro guvernéra ostrova. Různé věci, kterých Robinson dávno neviděl. Mezi tím i úplný oblek a prádlo se vším příslušenstvím elegantního gentlemana. Možno si představit, s jakou radostí se Robinson po letech opět řádně oblékl.
 
@@ -123,12 +133,18 @@ Bylo to ve výroční den jeho útěku z maurského zajetí v Saleh.
 
 Na Robinsonovu žádost udělala loď nevelkou okliku, aby zastavila u břehů Pátkovy otčiny pro Španěly, kterým tak ušetřena práce jak s budováním lodic k převozu na ostrov, s nimiž již začali, tak s budováním velké lodi k návratu do vlasti. Ale neodejeli všichni. Šest, kteří splynuli se svými hostiteli, prohlásilo, že budou mnohem raději žít na Robinsonově ostrově se svými ženami a dětmi nežli doma, kde na ně, úplně chudé, čeká horší bída. A dva jiní a jeden Portugalec se rozhodli učinit týž pokus s nimi. Lákala je rovněž mnohem více vyhlídka stát se osadníky na bohatém ostrově nežli vyhlídka na chudobu ztroskotalých námořníků. Odevzdali jim tudíž zbraně a nástroje pro ně určené, což kapitán doplnil dalšími zbraněmi a dvěma soudky prachu, tak aby každý z nich byl ozbrojen. A obdarovali je i všemi postradatelnými nástroji, jmenovitě i dvěma dobrými pilami, lodními noži a trochou nádobí pro kuchyni. A pak, když se Pátek rozloučil se svým otcem a slíbil, že se zase vrátí, odejela loď do Anglie.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_137.jpg)
 
-  
+</section>
+
+<section>
 
 * * *
 
 [25](./resources/undefined) Jednotka jezdectva asi o sto koních, tady míněno zřejmě jako velký vojenský oddíl obecně. _Pozn. red._
+
+</section>

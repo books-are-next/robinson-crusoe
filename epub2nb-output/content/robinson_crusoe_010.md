@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Když dokončoval tuto práci, dostal se Robinson jednoho dne až ke konci ohrady u skály. A byl náhle velmi překvapen, když zde místo obyčejného býlí nalezl – stébla a klasy ječmene! Skutečného, pravého anglického ječmene!
 
 Zaražen stál nad tímto zjevem jako nad skutečným zázrakem, až se mu ponenáhlu v hlavě rozsvítilo.
@@ -31,11 +33,15 @@ Byl právě zaměstnán u ohniště, když ho náhle vyděsil strašlivý hřmo
 
 Jediným skokem ocitl se venku a skočiv k ohradě, vyběhl po schůdkách, a nezdržuje se s žebříčkem, seskočil dolů a pádil odtud. Neboť první myšlenka, že jde o nové zřícení sklepního stropu, ustoupila horšímu zděšení, když viděl, že se sype skalní stěna.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_040.jpg)
 
-  
+</section>
+
+<section>
 
 Leč stanuv v bezpečí, poznal, že zažil skutečné zemětřesení. Neboť náhle se mu zakolísala půda pod nohama, div neupadl. Hrozný hřmot následoval po tomto druhém nárazu. Kus skály stranou vedle domku se utrhl a řítil se dolů. Robinson vyběhl z lesíka ven na mořský břeh. A tu viděl ještě horší spoustu. Vršek ostrohu, asi kilometr odtud, se utrhl a zřítil se do moře. Oblak prachu zahaloval kopec. A vtom již dostavil se třetí otřes. Zdálo se, že pod mořem jsou otřesy ještě prudší nežli na zemi. Vysoké vlny zuřily u břehu – nevalily se jako vlny příboje, ale zdvihaly se jako vzteklé výbuchy homolovitě do výše ne jinak, nežli jako by vodu tříštil pád obrovských balvanů, zdvihaly se z ní vysoké kužele, podobající se náhle vyvstávajícím a opět skleslým jícnům sopečného kráteru. Zděšeně vběhl zpět do houští, boje se, že bude vodou smeten do moře.
 
@@ -105,19 +111,27 @@ Z jedné nohy ulovené želvy uvařil si toho večera nejznamenitější polév
 
 Když druhého dne želvu otevřel, nalezl v ní 62 vajec. Přemýšleje, jak uchovat maso, rozhodl se, že je po vyvrhnutí důkladně prosolí, vyloží listím, zabalí do plátna na ochranu od hmyzu a zavěsí ve vlastním krunýři na provazech od stropu ve sklepení. Teď, když nalezl kotlík a mísy, neměl již o sůl obav. – Želva měla alespoň 10 kilogramů masa – ostatní byly kosti a těžký štít. Něco z toho včas sní a ostatek vyudí a usuší.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_044.jpg)
 
-  
+</section>
+
+<section>
 
 Polední déšť zdál se Robinsonovi neobyčejně chladný a pociťoval jakési divné mrazení. Necítě do ničeho chuti, zůstal po celý den doma. V noci trpěl nespavostí a bolestí hlavy. Byla to horečka. V hlavě, horečkou omámené, honila se mu zmatenice nesouvislých obrazů, z nichž se vytrhoval trhnutím. Nebyl ani schopen, aby si uvědomil svoje zoufalé postavení. Pokoušel se vzpamatovat, ale byl znovu a znovu zalit zmatenými sny horečky. Pak si uvědomil, že se modlí, ale nemohl dobře pochopit proč. Bylo to, jako by někdo cizí mluvil a on poslouchal. Pak usnul, a když se opět probral, cítil se být trochu volnějším, a jakoby pod vlivem nějaké uložené povinnosti, vstal a přinesl si k loži vodu. A teprve když ucítil chladnou vodu na rukou, uvědomil si žízeň a napil se. Ulevilo mu to neobyčejně, ale pak ho zachvátila ospalost a ulehnuv, usnul tentokrát klidněji. Po tři dny potácel se takto mezi bezvědomím a polovědomím, a pak procitl s jasnější hlavou. A když si uvědomil svůj stav, zmocnil se ho hrozný strach z jeho osamělosti.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_045.jpg)
 
-  
+</section>
+
+<section>
 
 Nero k němu vyskočil a zdravil ho lichocením. Vzpamatovalo ho to a vstal, aby dal ubohému zvířeti najíst. Cítil takovou slabost, že sotva dosáhl k zásobě masa zavěšené od stropu sklepení. Pak opět ulehl. Bylo mu sice hrozně, ale neztrácel již vědomí. Necítil vůbec chuti k jídlu, jenom žízeň. Druhého dne se záchvat zimnice vrátil a zmítal jím po mnoho hodin mezi horkem a zimou. Pak dostavil se mírný pot, po němž usnul.
 
@@ -152,3 +166,5 @@ A tak pojal úmysl neomezovat se tolik jako dosud na pouhou práci s tím, co 
 * * *
 
 [15](./resources/undefined) Závěsné váhy, které váží pouze jedním závažím, mincíř. _Pozn. red._
+
+</section>

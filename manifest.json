@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "defoe-robinson-crusoe-84a6fba",
-  "revision": "84a6fba",
+  "identifier": "defoe-robinson-crusoe-a8cbe88",
+  "revision": "a8cbe88",
   "readingOrder": [
     "robinson_crusoe_001.html",
     "promo.html",
@@ -40,16 +40,16 @@
     "robinson_crusoe_027.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:38:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351912492
+    "date": "Fri Jun 10 2022 17:55:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883717789
   },
   "documents": [
     {
       "title": "Robinson Crusoe",
       "file": "robinson_crusoe_001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -579,14 +579,14 @@
   ],
   "totals": {
     "all": {
-      "words": 85977,
+      "words": 85978,
       "chars": 512122,
-      "ideas": 972
+      "ideas": 973
     },
     "chapters": {
-      "words": 85970,
+      "words": 85971,
       "chars": 512079,
-      "ideas": 967
+      "ideas": 968
     }
   }
 }

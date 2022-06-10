@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 „Pane, pane,“ volal Pátek, „jsou tu! Jsou tu! – Tam! Jedna – dvě, tři kanoe, jedna – dvě, tři!“ a ukazoval ven ke břehu. Divoši přistáli opět, a tentokráte velmi blízko obydlí.
 
 Okamžitě byly nabity zbraně k boji, ručnice nejhrubšími jeleními broky, muškety pěti velkými a dvěma malými kulemi, a tři pistole dvěma kulemi, a Robinson, vzav dalekohled, vyšplhal na svou rozhlednu nad domem. Opravdu ležely stranou na břehu prvního výběžku vpravo tři kanoe – a více než dvacet divochů se dvěma zajatci. Pátek prohlásil, že to nejsou jeho lidé, kteří nikdy nejezdí sem v tato místa, ale nepřátelé, ti, kteří sem přivezli jej.
@@ -23,11 +25,15 @@ Tato zpráva Robinsona hrozně rozčilila. Pouhá slova „bílý vousatý muž�
 
 Pátkovi, jenž čekal na rozhodnutí svého pána, stačil pouhý pokyn. Chopil se svých zbraní a šel rychle napřed, veda Robinsona nejsnadnější cestou.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_120.jpg)
 
-  
+</section>
+
+<section>
 
 Došli na kraj lesa a Pátek vedl cestou až na místo, kde musili z lesa ven. Ale mezi nimi a divochy rostlo tu ještě malé houští s několika stromy, asi padesát metrů od lesního kraje na malé vyvýšenině půdy. Opatrně dostali se vysokým býlím za tuto skupinu houští a k němu, až mohli hledět listím.
 
@@ -47,11 +53,15 @@ Oba kati strnuli při prvém výstřelu právě jako ostatní. A teď běželi 
 
 Robinson vytáhl nůž a přeřezal zajatcova pouta, tázaje se portugalsky, kým jest. Odpověděl latinsky: „Christianus, Hispanus.“ „Křesťan, Španěl.“ Robinson mu podal láhev s rumem, a kus chleba. Nebožák byl tak vysílen a utýrán nelidským spoutáním, že se mohl sotva hnout. Robinson mu dal jednu ze svých pistolí k obraně, kdyby byl ještě napaden, a obrátil se k bojišti.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_121.jpg)
 
-  
+</section>
+
+<section>
 
 Leč boj byl již vlastně rozhodnut. Zděšeni nenadálým útokem divoši většinou prchli, aniž měli kdy chopit se těch několika zbraní, které měli poblíž, a vrhli se ke svým člunům, aby je odtáhli na moře. To však teď nebylo tak snadnou věcí. Těžké lodice, ležící nyní, za počínajícího přílivu, vysoko na břehu, vyžadovaly mnohých rukou ve spořádané spolupráci, a rozčilení divoši nebyli jí dobře schopni. A Pátek dovedl znamenitě využít každé výhody. Přiběhl k Robinsonovi, a požádav o jeho mušketu, zaměřil znovu na divochy, kteří zaměstnáni loďkami, tvořili hustý houfec. Rána z muškety způsobila mezi nimi hroznou porážku, a i Pátkova pistole vyžádala si po oběti pro každou z obou koulí. Robinson chtěl na Pátka zavolat, aby již nestřílel, neboť bylo nutno zachovat si zbylé rány pro případ, že se divoši vzpamatují k útoku, ale bylo pozdě – a vtom se za ním ozvala rána. To Španěl, který se účinkem rumu rychle vzpamatoval, zasáhl do boje. Stál již a obrátil se k Robinsonovi.
 
@@ -61,21 +71,29 @@ Robinson, jenž zatím chvatně nabíjel odložené muškety, viděl, že by se 
 
 Pátek měl chuť pustit se za nimi s loďkou. A v pomyšlení, že by mohli donést zprávu svým krajanům a vrátit se se sty jiných, Robinson k tomu svolil. Druhá lodice byla divochy vytažena již také na vodu a jenom Španělův výstřel a Pátkovo zuřivé útočení zabránilo, že s ní divoši rovněž neujeli. Robinson nařídil Pátkovi, aby přinesl ostatní zbraně, které Španěl chvatně nabíjel, a sám vskočil do lodice, aby se podíval, jak je s vesly.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_123.jpg)
 
-  
+</section>
+
+<section>
 
 Ale ke svému překvapení nalezl ve člunu svázaného nahého člověka. Byl to indián a byl svázán tak, že mu byly natažené nohy zdviženy vzhůru a svázány provazem otočeným kolem šíje. Nešťastník byl ovinut provazem tak, že tělo, paže a nohy tvořily těsný balík. Robinson mu přeřezal pouta, ale ubožák byl strašlivým spoutáním tak zničen, že se nemohl ani hnout. Robinson zavolal na Pátka, aby přinesl láhev s rumem. Pátek přiběhl a podal láhev, kterou Robinson přitiskl zajatci ke rtům. Napil se dlouhým douškem, a otřásl se, jak mu silný nápoj projel nitrem. A hnul se, hledě po svých zachráncích.
 
 Náhle Pátek vykřikl a vrhl se k nešťastnému. Jásaje a volaje a pláče, objímal jej a líbal a hýčkal, a konečně ze sebe vypravil, že to je jeho otec. A pak si počínal jako šílený. Vyskočil z loďky, tančil a běhal kolem, a pak vskočil do lodi a objímal otce znovu a zase vyskočil a tančil a křičel a jásal.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_124.jpg)
 
-  
+</section>
+
+<section>
 
 Dojatý a rozechvělý Robinson ošetřil zatím ztýraného ubožáka. Dal mu znovu napít rumu a třel mu jím ztuhlé údy.
 
@@ -100,3 +118,5 @@ Hovor šel obstojně, neboť Španěl mluvil již dobře řečí domorodců, mez
 * * *
 
 [24](./resources/undefined) Pane – váš meč! _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Ale všechna tato opatření byla zbytečná a Robinson to pochopil velmi brzy a litoval jich. Nikdy snad neměl nikdo oddanějšího sluhy a věrnějšího přítele, nežli jakým se zachráněný indián ukázal vůči němu. Hned ráno druhého dne poznal Robinson svůj omyl z dětinsky příchylného chování svého chráněnce, jenž patrně uhodl jeho obavy a snažil se všemožně dát mu najevo svoji lásku a věrnost. Dojatý Robinson usmyslil si napravit svoji chybu, a aby ukázal svoji důvěru a vzájemnou příchylnost, vyhledal ve své zbrojírně dobrý nůž a sekerku a dal je svému chráněnci spolu se svým zásobním opaskem. Když obdarovaný pochopil, že mu zbraně dává a že jsou jeho, neměla jeho radost a vděčnost mezí. Robinson zavedl jej ke svému brusu a ukázal mu jeho užití, nabrousiv nůž před jeho zrakem co nejdokonaleji nejdříve na velkém brusu a pak na malém, ručním brousku, jímž mu dodal hladkého ostří. A byl sám nesmírně potěšen, vida, s jakou radostí se divoch pustil do broušení své sekery, nápodobě ostří, jak je viděl na příruční sekeře Robinsonově, kterou si vypůjčil. Počínal si při tom tak obratně, že Robinson nevycházel z údivu nad divochem, který projevoval při všem tolik inteligence, že by mu byl mohl každý londýnský měšťák závidět.
 
 A Robinson často potom hleděl na svého „divošského“ soudruha v zamyšlení, uvažuje, jak a proč to je, že tak veliký počet lidí, tak nadaných a v základu schopných, je vyloučen ze všeho požehnání civilizace, kultury a náboženství, ačkoliv by, soudě podle jeho zkušenosti, dovedli svých schopností právě tak užít jako my a ačkoliv by byli schopni užít náboženského osvícení mnohem lépe a opravdověji, nežli činí veliká většina Evropanů. A často se zastyděl jak nad sebou samým, tak nad celou civilizací, z níž vyšel, vida, s jak logickou a důkladnou důsledností se jeho divošský přítel přičiňuje, aby z toho chabého zlomku poučení, jehož se mu od Robinsona dostalo, vyvodil co nejvyšší užitek. – Jak to, že Bůh nechává tolik duší v bludu a ve tmě, a že jenom zlomek lidstva, a mezi nimi tolik do­konce ne nejhodnějších, je účastno jeho poznání a dobrodiní vzdělanosti?
@@ -25,11 +27,15 @@ A byl nejen velmi pozorným, ale i velmi učenlivým a bystrým žákem. A k
 
 Pátek sice tak dalece pochopil celý pochod a projevil to dávaje najevo nesmírnou radost. Ale puška mu přece dlouho zůstala předmětem obdivu a úcty. Po několika dnech překvapil Robinsona tím, že mu přinesl ukázat dlouhou foukačku, kterou zhotovil, a která byla tím nejbližší pušce, co znal. Byla to lehká trubice, asi půldruha metru dlouhá, a několik šipek z dlouhého, hladkého, kulatého trnu, jako zvětšený trn naší trnky. Pátek vložil trn do trubice a přiloživ k ústům, foukl mocně – a trn zaryl se ku podivu hluboko do kůry stromu, na nějž mířil. A Pátek se smál, ukazuje na pušku a na růžek s prachem a na své plíce, jako by chtěl říci: „Já také fuk! – Oheň! Puff!“
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_109.jpg)
 
-  
+</section>
+
+<section>
 
 Foukačka byla zhotovena s podivuhodnou dovedností. Snad pomocí Pátkova nového nože, jejž udržoval na ostrosti břitvy, přibrušuje jej každé volné chvíle hladkým kaménkem z potoka. Byla udělána ze tří prutů, vyštípnutých z řapíku kokosového listu a svázaných dohromady pevným ovinkem z lýka. A byla opracována tak dokonale, že byla úplně rovná a otvor byl naveskrz stejného průměru. Byla opatřena pěkným náhubkem, vyřezaným z tvrdého ořechu. Šipky pak, pečlivě uhlazené, měly na tlustším konci pěknou štětičku, a Pátek ukázal, že vznikla rozžvýkáním konce trnu a tím, že byl pak takto vzniklý kartáček smočen do pryskyřice a rozčepýřený opatřen štětičkou z prachového peří, načež bylo vše stisknuto, uhlazeno a necháno uschnout. A celá tato umělecká práce, kterou Pátek provedl potají a po chvilkách, trvala obratnému divochu jistě velmi krátce, neboť ji přinesl čtvrtý den po Robinsonově výkladu střelby.
 
@@ -41,11 +47,15 @@ Robinson, vyhýbaje se tomu, aby závodil s tímto bystrým divochem, přenecha
 
 Znal také dokonale zdejší ovoce, jedlé kořeny a hlízy, a obohatil spižírnu o veliké množství druhů, kterých Robinson neznal a kterých si v neznalosti nemohl troufat jíst.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_113.jpg)
 
-  
+</section>
+
+<section>
 
 Skoro největším ziskem v tomto směru bylo však, že uměl maso, ryby i plodiny upravovat na několik nových způsobů, což bylo znamenitou obměnou ve stravě, která dříve byla přes bohatost zásob pro svou úpravu přece jen trochu jednotvárná. Maso pečené po Pátkově způsobu na rožni, stranou od hromady žhavého uhlí, anebo ryba, ovázaná vonným listím a upečená v jámě, byly opravdovou pochoutkou. – Rovněž některé upečené plody a hlízy.
 
@@ -68,3 +78,5 @@ Zůstávali vždy na břehu, neboť se během obřadů nesmí nikdo vzdálit. On
 Sem jezdí, protože to je posvátný ostrov a patří několika kmenům jejich národa dohromady, ale ne k bydlení, jenom pro obřadné hostiny. Což vysvětlovalo poměrnou bezpečnost ostrova. Stane-li se, že zajatec uprchne – to se nestalo, pokud Pátek pamatoval – nesmí být honěn dále, nežli doběhnou pronásledovatelé dřív, než ho ztratí z očí. Pak je volný – Velký Duch tomu nechce. – Kdyby ho byl nezachránil Robinson, byl by se Pátek pokusil udělat si sám kanoi a vrátit se domů. Ne, ke svým lidem by se nesměl hlásit, kdyby sem přišli, musil by se sám vrátit domů. – Byl mrtev, neboť se nechal zajmout, a musil sám oživnout. Chtěl by? Ne! Je rád zde. Má rád Robinsona.
 
 Na dotazy o jejich plavbách vykládal, že je plavba docela bezpečná a že se nikdy nepřihodí žádné neštěstí a nikdy nebyla žádná loďka ztracena. Bouře se nebojí – vědí, má-li přijít. Plují s proudem – tam stranou je proud, který jde ráno tam a večer sem. Robinson myslil, že tím míní příliv a odliv, ale později zvěděl, že tu jde o mohutný, ale s přílivem měnivý proud orinocký. Neboť ostrov ležel v okruhu ústí Orinoka. Země, kterou viděl na severozápadě, byl veliký ostrov Trinidad, ležící severně od ústí Orinoka.
+
+</section>

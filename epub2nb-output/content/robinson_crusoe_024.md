@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Po dlouhém přemýšlení ptal se Robinson, jak by Španělé přijali jeho pomoc k útěku. Netajil se, že má vůči nim aspoň stejné obavy, jako k indiánům.
 
 „Neboť,“ řekl, „vděčnost není ctností, která by byla lidem zpravidla dána. Obyčejně jednají lidé ne podle obdržených dobrodiní, ale podle dalšího prospěchu. Mohlo by se mi stát, že když je osvobodím, stanu se sám jejich zajatcem a budu dovezen do Nového Španělska a vydán do rukou kněží španělské inkvizice. A to bych se raději vydal divochům ke snědení. Neboť Angličan vůbec nenajde milosti u Španěla a protestant ne u kněze inkvizice, a já jsem obojí. Z druhé strany však, kdyby nebylo této obavy, jsem jist, že bychom všichni spojeni a s mými nástroji, se zbytky součástí zachráněnými v mých skladech, a s jejich lodnickými vědomostmi mohli postavit loď dosti velikou a schopnou dovézt nás na jih do Brazílie. Kdyby mne však, až je ozbrojím, chtěli nutit, abych s nimi šel na španělské pobřeží k jejich lidem, bylo by to pro mne přílišným nebezpečím, i kdyby oni sami se chtěli tam za mne postavit. Slyšel jsem příliš mnoho o jednání vašich úřadů a hlavně vaší inkvizice v podobných případech.“
@@ -45,11 +47,15 @@ Vzrušení, které se Robinsona zmocnilo, bylo ovšem ohromné. Ale jakási podi
 
 Člun mířil teď trochu podél břehu, jako by hledal vhodné přístaviště. Ale plul příliš daleko od břehu, nežli aby byli mohli uzřít úzkou zátoku, v níž kdysi Robinson přistál se svými vory, a pluli dále k větší zátoce, asi půl míle dále k západu. Jinak by byli přistáli takřka přede dveřmi jeho domu. A sotva přistáli, bylo potvrzeno Robinsonovo tušení, že jde o Angličany. Jenom dva vypadali jako Holanďané. Z jedenácti mužů člunu byli tři neozbrojeni a spoutáni. Když první čtyři vyskočili na břeh, byli tři zajatci vyvedeni z člunu. Jeden z nich vášnivě gestikuloval, jako by prosil, druzí dva zdáli se být méně rozčilení.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_128.jpg)
 
-  
+</section>
+
+<section>
 
 Nebylo možno říci, oč tu jde. Pátek volal vzhůru: „Vidíš, pane, Angličani jedí zajaté jako my!“ – „Ne, Pátku. Snad je chtějí zabít, dojista však ne snísti!“
 
@@ -96,3 +102,5 @@ Kapitán však projevil velikou dávku krásné lidskosti. Pokud jen možno, cht
 Zatím objevili se na dějišti ostatní tři lodníci, kteří nebyli pod stromem, ale vyšli si s jedním ozbrojeným druhem na lov. Teď přiběhli, poplašeni výstřely. Když však viděli kapitána a zajatce ozbrojené a mimo ně dva rovněž ozbrojené lidi, nahlédli, že je po vzpouře. Jejich jediná lehká puška nemohla být dostatečným povzbuzením k boji. – Byli svázáni. – Vítězství bylo dokonalé.
 
 Pátek odešel připravit občerstvení pro znavené osvobozené a Robinson s kapitánem vyměnili si zatím stručné zprávy o svých osudech. Pak zavedl Robinson své hosty do domu, a sice úmyslně cestou, kudy sám odešel, totiž přes kopec.
+
+</section>
