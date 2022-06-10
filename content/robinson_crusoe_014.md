@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Byly krásné dny a měl štěstí, že ani tohoto, ani následujícího dne nepršelo. Pec vychládala opravdu pomalu. Třetího dne dostavil se déšť, ale ukázalo se, že vůbec nepronikal do mastného jílu břehu a převislý povlak drnu nahoře chránil i přední stěnu od deště. Ještě třetího dne byla pec horká. Ačkoliv sám žhnul netrpělivostí hůře nežli jeho pec, zdržel Robinson přece svoji dychtivost a teprve čtvrtého dne přistoupil k otevření pece. Když však vylomil ze stěny první kus vypálené a spečené hlíny, viděl, že je uvnitř dosud velmi horká. Rychle ji tedy vrátil na své místo a přikročil k ponenáhlému ochlazování nitra pece tím, že prorazil malý otvor do hradby, jíž ucpal topeniště. Vnikající vzduch se ovšem oteplil, ale pomalu musil ochladit topeniště a pak i pec. Potom vylámal podobný otvor i do přední zdi, a konečně šestého dne po zapálení otevřel pec docela.
 
 Jeho nádobí bylo vypáleno dokonale. Ano, některé kusy, které stály vzadu u plameniště, byly přepáleny. Začínaly se patrně roztavovat a byly silně zborceny – jako by byly rozmokly vodou. Ale většina byla ve velmi dobrém stavu. Zvonila při poklepu. A při bližším ohledání viděl, že je nádobí místy pokryto sklovitou vrstvou.
@@ -47,7 +49,9 @@ Vedlo se jim dobře, ale vítala ho radostně. Neviděl jich po celý měsíc.
 
 A Nerona musil dlouho volat – potuloval se kdesi po lesích, asi na lovu.
 
-  
+</section>
+
+<section>
 
 Ječmen pomalu dozrával a rýže málem též. A bylo potřeba pustit se doopravdy do příprav pro mlynářské řemeslo.
 
@@ -90,3 +94,5 @@ A potom již pekl lívance a vdolky a housky z ječné mouky. Lívance s po
 Měl teď již dostatek másla i tvarohu, neboť mohl bez okrádání kůzlat nadojit denně dva i několik litrů mléka. A když kůzlata začala sama žrát, oddojoval pomalu stále více, tím spíše, že viděl, že i velká kůzlata z předešlého vrhu se ráda přiživovala s mladšími. Kozy si velmi dobře zvykly a snášely dojení již ochotně.
 
 Prozatím stloukal máslo v malém tak, že třásl džbánkem s kozí smetanou, uzavřev pevně otvor. V malém množství to úplně stačilo. A když mu napadlo, aby do dřevěného víka, jímž džbán uzavíral, zasadil tři pruty, sahající až ke dnu, tak, aby se smetana o ně třesením tříštila, zdálo se mu, že nemůže být lepší máselnice. – Tvaroh, jejž vylisoval ze sedlého mléka ve váčku z plachtoviny, zatíživ jej kamenem, byl stejně vítaným obohacením kuchyně. A Nero jej jedl stejně rád jako jeho pán – a jako oba papoušci. Ve zdejším podnebí tvaroh rychle sýrovatěl a tak měl Robinson i výborné kozí syrečky i měkký, uleželý kozí sýr.
+
+</section>

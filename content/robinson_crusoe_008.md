@@ -3,15 +3,21 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Dlouho ležel omámen a neschopen myšlenky. Potom si uvědomil, že hledí k obloze a že se mu nad hlavou honí mraky. Je jistě nemožno líčit vzrušené nadšení člověka uniklého smrti po dlouhém zápasu. Kdo to zažil, pochopí, proč dříve, když byla nešťastníkovi pod šibenicí v posledním okamžení dána milost, zároveň poslali pro lékaře, aby mu pustil žilou a zachránil ho před mrtvicí.
 
 Se zdviženými pažemi, poddávaje se cele vířivé radosti ze svého zachránění, chodil Robinson sem a tam po břehu. A pak teprve vzpomněl na svoje soudruhy a vzpamatovav se trochu k střízlivé rozvaze, rozhlížel se po okolí. Neviděl nikde nikoho. Vlny dosud bily do břehu, ač zřetelně zmírněny, a jen v dáli stála loď, z níž unikl. Bylo ji v tříšti příboje sotva vidět.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_023.jpg)
 
-  
+</section>
+
+<section>
 
 „Můj Bože, jak je to možné, že jsem se tímto peklem dostal sem!“ zvolal v bezděkém údivu. Zmítající se voda, šplíchající s třeskem mezi balvany pobřeží, dlouhé, mohutné hřbety a bílé, zpěněné hřebeny vln, zmatená směs hluku, jejž působily, ženouce se po písku a kamení břehu – vše to činilo uniknutí skutečným zá­zrakem.
 
@@ -33,11 +39,15 @@ Přecházel pak chvíli sem a tam po břehu a hledal pitnou vodu. A také ji 
 
 Probudil se až za bílého dne. Cítil se tak osvěženým a čilým, že v první chvíli ani nevzpomněl na svoje neštěstí a nemohl se vzpamatovat, kde je. Teprve když sebou pohnul, pocítil bolest v boku a uvědomil si svoji polohu. Nepohodlné uložení na větvi otlačilo mu tělo a cítil se tak polámán, že se jen s obtíží mohl jinak rozložit. Teprve po chvíli odvážil se protáhnout a tu, pohybuje se opatrně, shledal, že bolesti přestaly, ale že se ho zato zmocnila nová únava. Sedě tedy na své větvi, rozhlížel se po břehu.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_024.jpg)
 
-  
+</section>
+
+<section>
 
 S údivem spatřil, že loď byla za noci odnesena z místa, kde poprvé uvázla, a donesena jinam, nedaleko místa, na něž vlny i jej byly vynesly. Byla teď jen asi půldruhého kilometru od břehu a stála téměř úplně zpříma, sedíc na ploché mělčině.
 
@@ -140,3 +150,5 @@ Cítil se také mnohem bezpečněji. Chytré zvíře by ho jistě varovalo včas
 [12](./resources/undefined) Vrták do dřeva. _Pozn. red._
 
 [13](./resources/undefined) Námořní míle: 1/60 rovníkového stupně – 1/60 y, 111,2979 km = 1854,9650 m; anglická míle = 1609,3296 m.
+
+</section>

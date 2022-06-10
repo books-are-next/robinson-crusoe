@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Jeho duševní čilost a vynalézavost vrátily se tak opět na původní koleje. Pracoval se zájmem na svých domácích pracích, na zdokonalení svých vymožeností a na zlepšení svého stavu. A na mnohém z toho, nač dosud sice časem pomýšlel, ale k čemu se dosud nedostal.
 
 Tak se na příklad pustil do výroby cukrového a palmového vína, na jehož výrobu přišel pouhou náhodou, když mu cukrová šťáva, k vaření cukru připravená a v návalu jiných nutností zanedbaná, v otevřené nádobě počala bouřlivě kvasit. Neměl tušení, jak si počínat. Ale když ochutnal šťávu, aby zjistil, není-li již zkažena a nemusí-li ji vylít, zjistil její vinnou povahu a zřejmě alkoholický obsah, učinil pokus, nechal šťávu dokvasit. Získal tak znamenité a velmi silné víno, které mu ovšem velmi rychle zkysalo, jež však mohl vždy rychle a snadno nahradit novým, maje cukrové třtiny více nežli nadbytek. Naučil se také čerpat z kokosových palem palmovou šťávu naříznutím mladých palem před rozkvetením a teď jí použil, aby si dělal i palmové víno. A když potom vyzkoušel, jak si počínat, a kdy a jak vykvašené víno slít do džbánů – (lahví neměl) a ucpat je a uschovat před zkysáním, stal se z něho i vinárník. – Na štěstí byl Robinson od mládí velmi střízlivý a také věděl, že je v horkých krajích požitek alkoholu velmi nebezpečný, jmenovitě před západem slunce. A tak si dopřával jenom malé číšky po večeři, spokojuje se hlavně mlékem a ovocnými šťávami. Přece však byl svému objevu rád, neboť dosud měl jenom nepatrnou zásobu lihovin zachráněných z kapitánovy zásoby, které pečlivě uschovával pro potřebu churavosti a stáří. A proto tomu věnoval dlouhý čas celou pozornost a zkoušel mnohé, až se naučil vyrábět rozmanitá lehká ovocná vína tím, že v cukrové šťávě kvasil současně rozmanité, chutné a aromatické plody a koření ostrova, čímž získal velmi bohatý vinný sklep, jehož dobrotu by mu byl mnohý evropský labužník důkladně záviděl.
@@ -40,3 +42,5 @@ Nechal si doma pro potřebu jen asi půldruhého kilogramu prachu a příslušn
 „A tam mne pak může hledat třebas pět set divochů,“ řekl si. „I kdyby mne našli, neodváží se za mnou – a odváží-li se, úzký vchod jeskyně bude hračkou obhájit –“
 
 Vzhledem k tomu, že jeskyně zůstala dosud až do jeho vstupu nedotknutou, nepovažoval prozatím za nutné starat se o její umělé zabezpečení. Ale ovšem se postaral, aby po jeho vstupu nezůstalo památky a aby vchod zvenčí zůstal co nejdokonaleji zakryt houštím křoví a popínavých rostlin.
+
+</section>

@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Roku 1651 potuloval se po přístavních nábřežích anglického města Hullu devatenáctiletý mladík a pozoroval se zájmem čilý ruch přístavu a hlavně množství lodí, jejichž stožáry a ráhna zdála se tvořit celý fantastický les.
 
 Mořeplavectví bylo tehda v neobyčejném rozkvětu. Kdekdo hledal příležitost zbohatnout obchodem s dalekými končinami světa – a o dobrodružstvích a zázracích, které je při tom možno zažít, vypravovaly se opravdové pohádky. Dnes by opravdu i školák sotva uvěřil všem těm fantaziím, které se tehdy šířily nejen mezi prostými lidmi, ale i ve vzdělaných vrstvách, živeny obrazností námořníků, kteří jsou známi, že rozlišují ve vypravování právě tak málo mezi skutečností a výmyslem jako páni sváteční myslivci a staří vojáci. – Skutečného a spolehlivého bylo o cizích zemích tehdy málo známo, knihtisk nedodával dosud čtenářstvu příliš mnoho světského poučení, aby se, kdo toužil, mohl z knih snadno o čemkoliv poučit, a tak byli zvědaví i vědychtiví odkázáni opravdu jenom na to, co se doslechli v kruhu známých. Nedivno, že bylo mnoho zmatených fantazírujících hlav. A mladý Robinson Crusoe (čti Krusó) patřil mezi ně.
@@ -13,11 +15,15 @@ Do Hullu přišel pouhou náhodou, aby obstaral nějakou záležitost svému otc
 
 Rána do ramene projela jím jako úder hromu. Obrátil se – a hleděl do úsměvné tváře kamaráda, s nímž v Yorku chodil do školy.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_007.jpg)
 
-  
+</section>
+
+<section>
 
 „Co tu děláš?“ – Robinson pověděl. – „A chtěl by ses podívat na loď?“ – To ovšem bylo, co si Robinson přál nejvíce. A lze si představit jeho radost, když ho přítel vzal pod paží a vedl ke krásné velké lodi, chystající se k odplutí. Byla to loď Bobova otce, a Bob měl po ní jet za otcem do Yarmouthu a potom do Londýna. Prováděl svého druha po lodi a Robinson byl jako u vyjevení. – „A víš co, pojeď se mnou!“ nabídl náhle Bob. – Robinsonovi se zatočila hlava. – „Já – já nemohu –“ koktal zarděle. – Kamarád se naň podíval s posměchem. – „Proč? Vždyť jsi vždy tolik toužil na moře?“ – „Ano – ale…“ A Robinson počal vysvětlovat, že by sice rád, ale že doma o ničem nevědí. – „Ano – toť se ví – maminčin mazlíček!“ ušklíbl se Bob. – „To ne!“ ohradil se Robinson prudce. „Ale – ale – já nemám ani dost peněz, ani nic s sebou na cestu!“ – „Nu, nemáš-li jiné starosti!“ zasmál se Bob. „Jen zůstaň – nebude tě to nic stát. Do Londýna pojedeš se mnou – a pomůžeš kapitánovi s knihami a vyděláš si ještě slušný peníz. A pak se můžeš druhou lodí vrátit.“
 
@@ -70,3 +76,5 @@ A tak se za chvíli celá jeho lítost a zkroušenost změnily ve furiant­sk�
 * * *
 
 [1](./resources/undefined) Kotviště. _Pozn. red._
+
+</section>

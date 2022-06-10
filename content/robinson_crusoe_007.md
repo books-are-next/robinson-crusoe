@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Radost Robinsonovu bylo by ovšem těžko vypisovat. Byli takto náhle vysvobozeni z beznadějného stavu. Nabídl okamžitě vše i s loďkou kapitánovi. Ale ten to velkodušně odmítl. Poctivý muž prohlásil, že zachránit ztroskotance je povinností každého námořníka, jenž nikdy neví, kdy se snad ocitne v podobném postavení a bude také potřebovat zachránce. Sliboval, že všechno Robinsonovo zboží i s loďkou uschová a jemu v Brazílii vrátí.
 
 „Je to celý váš majetek, pane, a co byste si bez něho v Brazílii počal?“ doložil. „Pomůže vám to zjednat si příležitost k návratu.“
@@ -51,11 +53,15 @@ Cesta vedla nejprve přímo k severu podél pobřeží, aby asi na jedenáctém
 
 Za této dvanáctidenní bouře, kdy jim bylo každou hodinu zápasit o život, ztratili tři životy. Nejdříve zemřel jeden námořník horečkou. Pak byl jiný zároveň s plavčíkem smeten vlnami do moře, aniž bylo možno pomyslit na jeho záchranu. Loď byla úplně bezmocná a vše, co mohli činit, bylo, že čerpali vodu a snažili se udržet loď dobře před větrem.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_021.jpg)
 
-  
+</section>
+
+<section>
 
 Dvanáctého dne ztišila se bouře a mraky se počaly rozhánět. Kapitán mohl provést zase první měření a nalezl, že se nalézají pod jedenáctým stupněm severní šířky, ale dvaadvacet stupňů západně od mysu Sv. Augustina, někde poblíže pobřeží Guyany nebo nad severní Brazílií mezi ústím Amazonky a Orinoka.
 
@@ -85,11 +91,15 @@ Robinson byl velmi dobrým plavcem, ale v těchto vlnách byla lidská síla pr
 
 Měl ještě tolik duchapřítomnosti, že se mohl v poslední chvíli vzpřímit a pokusit, aby se opravdu dostal na břeh a aby se tam udržel, nežli vlna klesne a jej s sebou odnese zpět. Ale nová, ještě ohromnější vlna hnala se za předešlou a nezbylo nežli lapnout dech a držet se pokud možno na jejím povrchu. Byl však přesto zalit aspoň desíti metry vody a hnán se strašlivou rychlostí dále na břeh. Již téměř omámen cítil náhle, že je hlavou a rukou nad vodou. Nový doušek vzduchu vrátil mu naději, a po nové vlně ucítil pod nohama pevnou půdu. Zůstav na suchu, použil chvíle k zotavení a načerpání vzduchu. Pak již tu byla nová vlna a Robinson byl zalit znovu – ale udržel se již na ní. Ještě dvě vlny nesly ho tak na svých hřbetech po plochém břehu kupředu.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_022.jpg)
 
-  
+</section>
+
+<section>
 
 Konečně byl vržen na skálu. Náraz by jej byl málem připravil o život. Udeřil se s takovou silou do hrudi a do boku, že ztratil dech i vědomí. Naštěstí vzpamatoval se trochu, nežli ho zasáhla nová vlna. A hlavním štěstím bylo, že tato nejbližší vlna byla mnohem nižší předešlých a že mu poskytla možnost zotavit se tak dalece, že mohl vylézt na skalisko a uběhnout kus cesty, takže následující vlna, ačkoliv ho ještě zasáhla, nemohla ho přece odnést. Opět běžel kus cesty a tentokráte ocitl se opravdu z dosahu vln. Hnán úzkostí, vyšplhal na vyšší břeh a tam sebou vrhl do trávy, ztráceje smysly s vědomím, že je zachráněn.
 
@@ -100,3 +110,5 @@ Konečně byl vržen na skálu. Náraz by jej byl málem připravil o život. U
 [9](./resources/undefined) Dozorce nad pořizováním zboží, jeho prodejem či výměnou v přístavech, v té době po kapitánovi druhá nejdůležitější osoba na obchodní lodi. _Pozn. red._
 
 [10](./resources/undefined) Příkrý skalní výběžek. _Pozn. red._
+
+</section>

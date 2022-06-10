@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Tak strávil na ostrově již dvaadvacet roků. Čas utekl mu mnohem rychleji nežli si lze představit. Jeho práce, podniky, dobrodružství a neustálá zaměstnání při vymýšlení a zdokonalování životních pomůcek zabraly mu tolik času, že neměl kdy oddávat se trudům a marným dumám. Měl také dosti společnosti – čím dále tím více.
 
 Polo, nejmilejší papoušek, naučil se velmi dokonale mluvit a Robinson byl dokonale jist, že pták nežvatlá, opakuje toliko nerozumně naučené zvuky, ale že jich užívá rozumně a účelně. Snad nechápal slov, ale věděl jistě, co znamená celé úsloví. A tak spolu vedli celé hovory. Robinson, částečně z potřeby srdce, částečně úmyslně, aby neodvykl řeči, hovoříval sám se sebou a svoje úvahy pronášel nejraději nahlas ke svým přátelům, jako by mluvil k účastnému posluchačstvu. A papoušek pochytil pomalu velmi mnoho i ze slov, která slyšel častěji, mimo ta, kterým ho Robinson úmyslně učil. Užíval jich pak ovšem nesmyslně. Ale slov, kterým se naučil z toho, co Robinson mluvil přímo k němu, užíval naprosto účelně a vhodně. Ovšem tak, že říkal Robinsonovi totéž, co říkal jindy Robinson jemu. Posílal jej spát, budil jej, vyzýval ke hře, žádal o mlsky, vadil se s ním a stěžoval si, když byl Robinson déle pryč. A také mu někdy zcela důkladně vyčinil.
@@ -21,17 +23,23 @@ A v křoví zevní ohrady, na vnitřní její straně, hnízdilo několik pár
 
 A tak žil celkem spokojeně a zapomínal úplně na svoji opuštěnost. – A také na nebezpečí hrozící od divochů.
 
-  
+</section>
+
+<section>
 
 Bylo to v měsíci prosinci třiadvacátého roku jeho pobytu na ostrově, v době, kdy zpravidla klidíval svoje obilí, a byl tudíž více venku zaměstnán nežli jindy. Když jednoho dne brzy ráno vyšel z domu, ještě nežli se docela rozednilo, a ocitl se náhodou, při nadcházce ke své roli, na pokraji lesa, uzřel ke svému velikému překvapení v dáli na západním břehu svého okrsku záři ohně! Oheň byl nad pochybnost rozdělán na nízkém ostrohu, který tam ukončoval břeh, jenž tvořil na jižní, „jeho“ straně ostrova, mělkou proláklinu – jakousi velmi plochou, táhlou a rozsáhlou mořskou zátoku. Bylo to na pobřežním konci svahu, na němž kdysi chytil svého prvního kozla.
 
 Překvapen, uleknut a poděšen, ucouvl rychle zpět do lesa a vrátil se do svého domu. Ale neměl zde pokoje. Trápila ho myšlenka, že divoši, když se jednou pustili do těchto končin, tak daleko od svého obvyklého rejdiště, přicházejí buď s nějakým neobvyklým úmyslem, anebo snad již dokonce vědí o jeho přítomnosti, kterou snad při předchozí návštěvě některý z nich vyšpehoval, a teď přicházejí pro něj ve větším počtu. Dojista proběhnou ostrovem a naleznou jeho ohrady. A jeho obilí. Jeho stáda. – A vědí-li o něm, bude lépe, vyjde-li ven, aby měl možnost přesvědčit se, a po případě včas prchnout do své jeskyně, nežli aby byl zaskočen ve svém hradě a obléhán a snad konec konců přece chycen jako myš v pasti. Neboť při myšlence, že snad divoši ho již vystopovali a vědí o jeho domu, viděl náhle, že všechny pomůcky obrany, všechny jeho střílny, které ostatně dávno nebyly v užitečném stavu, mu nebudou nic platny. Vrhne-li se sto odhodlaných, nad pomyšlení obratných a silných divochů s pohrdáním smrtí na jeho ohradu, dostanou se přes ni, byť by jich postřílel sebe více. A ostatně – jestliže ho vyšpehovali, rozmyslili si již také jistě svůj způsob útoku. Potřebují ho jen překvapit při práci v poli! – A okolnost, že neútočili za jeho nočního spánku, ale utábořili se opodál, dosti daleko, aby o nich nezvěděl, ale dosti blízko, aby neměli daleko k útoku, zdála se tomu jen nasvědčovat.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_099.jpg)
 
-  
+</section>
+
+<section>
 
 Vykonal tedy vše, aby jim ztížil vstup do domu, a rozhodl se čelit nebezpečí venku. Dosud byli tam v dáli, a snad se bude moci přiblížit, aby zvěděl, na čem je. K útěku do jeskyně bude vždy čas, neprozradí-li se. A pak mu náhle napadlo, že snad nejde o divochy, že to snad jsou trosečníci jeho plemene, nebo že za noci dokonce přistála u pobřeží ostrova loď. – A v tom případě – Zmocnilo se ho ještě strašnější rozčilení. Ne, nemohl zůstat nečinně v domě. Za každou cenu musí vidět, oč jde.
 
@@ -61,17 +69,23 @@ Robinson byl tak pobouřen, že si znovu umiňoval, že první, kteří snad op�
 
 Ale návštěvy byly patrně jenom vzácnými událostmi. Uplynulo mnoho měsíců, nežli divoši přijeli znovu. Alespoň nespatřil v té době žádné známky po nich, ačkoliv navštívil i místo jejich obvyklého hodování. Obešel po částech celý břeh, mezi svým domovem a krajním bodem na severozápadu, kde jednou našel otisk nohy, a nenašel nových známek. Za deštivého počasí byla ovšem jejich návštěva pravděnepodobna, protože větry, deště a bouře jistě nebyly příznivy podnikům v otevřených loďkách, ani válečným a podobným výpravám vůbec. Přesto strávil tento čas ve větší nevolnosti a rozmrzelosti nežli dosud, vyjímaje ovšem prvé dny po tehdejších objevech. A často se budil, vzrušen ošklivými sny.
 
-  
+</section>
+
+<section>
 
 Uplynulo patnáct měsíců od jitra, kdy po prvé spatřil divochy. Bylo to někdy uprostřed května, podle Robinsonova kalendáře šestnáctého. Po celý den zuřil prudký severovýchodní vichr, provázený bleskovou bouří, a následovala ošklivá noc. Robinson nespal, ale byl při své lampě pohřížen ve čtení bible. Náhle byl vyrušen zvukem, jenž mu připadal docela jako zvuk malého děla, vypáleného v dáli. – A za chvíli zazněla druhá rána.
 
 To bylo docela jiné překvapení nežli všechno dosavadní, a vzbudilo docela jiné city. Vyskočil, v zimničném rozechvění přistavil žebřík ke svému skalnímu výběžku, vystoupil nahoru, vytáhl žebřík, a postavil jej na výběžek a vyšplhal k vrcholu skály. Dospěl vrcholu právě v okamžiku, když se na východě zablesklo, a asi za půl minuty ozvala se třetí rána. Dělo bylo tedy vypáleno asi deset kilometrů odtud. Podle vzdálenosti a směru blesku tedy asi v místech, kde byl Robinson kdysi uchvácen mořským proudem. Patrně se tam ocitla loď v nesnázi a volala o pomoc.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_101.jpg)
 
-  
+</section>
+
+<section>
 
 Robinson měl dosti rozvahy, aby nepomýšlel na to, že by mohl ohroženým nějak účinně přispět. Spíše mohli oni osvobodit jej. Sestoupiv tudíž dolů, snesl tolik suchého dříví, kolik mohl v otýpce na zádech unést, vynesl je na skálu a zapálil je. Přes prudký vítr hořelo jasně a bylo dojista spatřeno mužstvem lodi. Neboť téměř ihned zablesklo se v dáli a Robinson slyšel výstřel a potom ještě několik dalších. Loď byla patrně ve skutečné nouzi, což bylo při útvaru pobřeží i moře v oněch končinách velmi samozřejmé. Robinson udržoval oheň po celou noc, až do rozednění. Když se pak rozednilo a obloha se vyjasnila, uzřel v moři, kus cesty východně od břehu, veliký předmět. Ale ani svým dalekohledem nemohl rozeznat, je-li to plachta ve stínu anebo trup lodi, neboť to bylo daleko a vzduch nad vodou byl značně nejasný. Ale věc se nehýbala a tak usoudil, že to je zakotvená loď – aspoň si namlouval, že je loď pouze zakotvena. Sestoupil ze skály a dav si sotva pokdy, aby stáhl a uložil svůj žebřík, uchopil pušku a běžel k východnímu břehu ostrova a na skálu, z níž kdysi obhlédal mořské proudy. Ke svému zármutku přesvědčil se však ihned, že jde opravdu o pouhý lodní vrak, ztroskotaný a úplně rozbitý na skalách, jež znal z vlastní trudné zkušenosti. Tehdy staly se jeho záchranou ze zoufalého postavení, neboť tím, že lámaly proud a dělily jej, působíce tak zpětné proudění, umožnily mu návrat k ostrovu. A tak, co jednomu prospěje, zničí často druhého…
 
@@ -101,11 +115,15 @@ Naskytl se mu věru smutný pohled. Loď byla podle stavby španělská a sedě
 
 První, co spatřil, byli dva utopenci, ležící v pevném objetí v nízkém krytu na přídi. Podle všeho přelily se vlny po nárazu přes loď s takovou silou, že toho lidé nevydrželi a utopili se pod jejich přívalem. Mimo psa nebylo na lodi nic živého. Všechen náklad byl vodou zničen, anebo úplně pod vodou. V zásobně leželo ve vodě několik sudů – zda s vínem, či lihovinami, nebylo možno říci. Ale byly příliš veliké, aby je mohl zmoci. Nalezl několik beden, které asi patřily lodníkům. Vynesl na palubu a dopravil do své lodi dvě z nich, mimo asi čtvrthektolitrový soudek s lihovinou. V jedné kajutě, která byla přístupná, nalezl na stěně několik pěkných pušek a krabici asi se dvěma kilogramy prachu. Vybral si dvě nejlepší pušky – měl jich dosti – a prach. Mimo to si vzal sekerku na štípání dříví a kleště na dříví od ohniště, dva menší, mosazné kotlíky, měděný hrnek od čokolády a rošt k pečení masa. Protože nemohl prozatím více s bezpečností uvézt, nastoupil s tímto nákladem a se psem zpáteční cestu, jakmile přílivový proud převládl dostatečně nad proudem řítícím se k východu. Dostal se před západem slunce šťastně na ostrov, důkladně vyčerpán, a zavezl člun do své zátoky, aby tam opět přenocoval.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_104.jpg)
 
-  
+</section>
+
+<section>
 
 Probudiv a občerstviv se a nakrmiv i psa, pustil se do prohlídky své kořisti.
 
@@ -118,3 +136,5 @@ Byla velká škoda, že nemohl do ostatních částí lodi. Neboť podle všeho,
 To, co na lodi ještě zbývalo, snad v lodnických bednách, ne­ospravedlňovalo rozhodně, aby se vydával v nové nebezpečí. Odno­sil tudíž nalezené zboží do své jeskynní skrýše, kde je pečlivě ukryl, dopravil svoji lodici do jejího bezpečného úkrytu, a vzav jednu z obou nových pušek – velmi krásně pracovanou a lehkou zbraň, jaké dosud neviděl, a patrně nového způsobu výroby – chvátal domů.
 
 A tak celá tato příhoda, která ho tolik vzrušila, byla by uplynula proň takořka bez významu – kdyby mu nebyla dala nového vítaného druha, jenž si naň brzy zvykl a jenž k němu velmi přilnul. Byl to malý pes, druhu podobného drsnosrstému teriérovi. Ale byl velmi bystrý. Dostal nové jméno Billy.
+
+</section>

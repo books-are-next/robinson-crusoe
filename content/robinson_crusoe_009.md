@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Několik následujících dní strávil obchůzkami po okolí, hledaje vhodnější místo pro své konečné usídlení. Neboť místo, kde zřídil svoje skladiště, se k trvalému usídlení rozhodně nehodilo. Bylo příliš blízko u říčky, do níž vtékal příliv, vlhké a dusné a jistě nezdravé. Voda nebyla valná ani v době největšího odlivu. Potřeboval rozhodně místo, kde by bylo co nejzdravěji, kde by byla dobrá pitná voda, ochrana před sluncem a před bouří, ale přece ne dusné parno pařivé houštiny, ochrana před útoky zvěře i lidí, a konečně blízký volný rozhled na moře, aby nezameškal příležitosti, kdyby se k ostrovu přiblížila nějaká loď.
 
 Nalezl opravdu takové místo kus cesty od své říčky směrem k zátoce, za níž byl člun. Nalezl je náhodou, zpozorovav pramen či potůček, jenž si z okraje lesa razil cestu přílivovým břehem k moři a sleduje jeho tok. Hned po prvých krocích za okrajovou houštinou přišel na volnější prostranství, za nímž se zdvihal příkrý, skalistý pahorek, jehož bok pnul se do výše příkře jako domovní zeď, tvoře s jednou téměř svislou stěnou šikmou pyramidu. A dole, po straně, byla ne sice jeskyně, ale přece jakási dutina, povstalá odloupnutím zevní vrstvy kamene, která skýtala alespoň částečně ochranu proti přímému dešti. Bylo to opravdu jakoby schválně stvořeno k jeho účelům. Na rovince vyčnívaly ze země polooblé, ploché skalní balvany a byla na ní jenom malá vrstva prsti, a tudíž skoro žádné stromoví a jenom trochu křoví, jež bylo možno poměrně snadno vysekat. Byla asi 50 kroků široká a asi sto kroků dlouhá. Táhla se ovšem dále, ale byla pak více zarostlá a méně zřetelná. Ležela na severozápadní straně skalní stěny a byla tudíž chráněna od slunce až do chvíle, kdy stálo na jihovýchodě, což mohlo nastat vždy jen velmi pozdě. A potůček či pramen, jenž jej sem přivedl, vytékal přímo u paty skály či vlastně z ní.
@@ -31,11 +33,15 @@ Tvořili znamenitou obměnu jídelního lístku a Robinson si umiňoval, že na
 
 Když byl s uložením prachu hotov, vydal se se svým psem na první, opravdu větší výpravu. Ozbrojen tentokráte mimo obvyklé ruční zbraně dvěma puškami – jednou nabitou broky o něco většími zaječích, druhou nabitou dvěma kulemi na obranu proti nepříteli – pustil se opačným směrem, nežli chodil dosud, za říčku, na jejímž břehu byl jeho první tábor.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_033.jpg)
 
-  
+</section>
+
+<section>
 
 A brzy si velmi blahopřál k tomuto nápadu. Obešed lesní výběžek – šel podél břehu – spatřil skalisté údolí, a v něm na skále – několik koz! Skutečných, opravdových koz! Zůstal překvapením stát. Ihned mu však ukázaly, že to nejsou obyčejné chovné kozy, ale divoká, volná zvířata. Spatřily jej skoro současně, jako on je, zaznělo hlasné zamečení, a celý houfec zmizel bleskovou rychlostí, skákaje s kamzičí obratností a s hbitostí srnců ze skály na skálu, až se ztratil v houští! Nero se za nimi rozběhl nadarmo.
 
@@ -67,11 +73,15 @@ Vzpomněl, že podle jeho počtu byla 11. listopadu neděle, a umínil si nap�
 
 15. listopadu zhotovil prostý kříž a opatřil nápisem: „Dne 30. září byl jsem zachráněn z bouře na tomto ostrově,“ a zarazil jej nad místem, kde vystoupil poprvé na břeh. Každý další den označil na kříži vyříznutým vrubem – pro neděle delším. Odpoledne pak vykonal novou procházku směrem ke „kozímu údolí“, ale nelovil.
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_035.jpg)
 
-  
+</section>
+
+<section>
 
 Následující den pustil se do práce, kterou měl v hlavě již delší čas. Dal se do prohlubování výklenku v skalní dutině za stanem. Železným páčidlem a kladivem odlupoval kusy kamene, což se mu dařilo nad očekávání dobře, neboť kámen se tu odděloval takřka sám, což také bylo původem dosavadní dutiny. Vylámané kamení nosil ven a obložil jím z vnitřní strany ohradu, hodlaje tak kolem ní vystavěti jakýsi stupeň, jenž by ji zpevnil ještě více. Dříve však ji opřel několika břevny, která zarazil šikmo do země, aby opírala hlavní kůly ohrady.
 
@@ -112,3 +122,5 @@ Zatím se ukázal zajímavý zjev. Kůly jeho palisády se skoro všechny ujaly!
 * * *
 
 [14](./resources/undefined) Nástroj k nabíjení střelných zbraní. _Pozn. red._
+
+</section>

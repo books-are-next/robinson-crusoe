@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 V Londýně měl Robinson zvláštní štěstí. Seznámil se s kapitánem lodi, která obchodovala se Západní Afrikou. Bodrý muž vrátil se nedávno z cesty s velmi šťastným výsledkem a chystal se nastoupit novou, od níž si sliboval výdělek ještě větší. V dobré náladě nabídl Robinsonovi, s nímž se v hostinci při sklence znamenitě pobavil, aby jel s ním. Nabídl mu volnou stravu – za kterou mu může pomoci vést obchodní knihy – a vyzval ho, aby za všechny peníze, které bude moci sehnat, nakoupil různých levných tretek, které lze černochům v Africe prodat s tisíceronásobným výdělkem. Robinson věděl, že má jeho matka v Londýně příbuzné a podařilo se mu je nalézt a přimět, aby mu na cestu přispěli menší částkou peněz. Celkem měl tolik, že mohl opatřit malou zásobu nejlevnějších předmětů, přičemž mu jeho nový přítel mohl velmi prospěšně poradit i pomoci.
 
 Cesta uplynula velmi šťastně. Kapitán ukázal se být opravdu velmi dobrým člověkem. Po celou cestu se neustále zabýval svým mladým chráněncem. Poučoval ho ve všem námořnictví a naučil ho základům námořního pozorování a počtářství, i řízení lodi. A tak se během této cesty stal z mladého dobrodruha obchodník i námořník. Chybělo mu jenom, že se mu nedostalo příležitosti, aby byl kdy opravdu pracoval jako námořník a začátečník. Měl sice celkový přehled, ale neměl zkušeností, kterých lze dosíci jenom vlastní námahou, zážitkem a prací.
@@ -114,3 +116,5 @@ Již zdaleka volány z lodi dotazy – portugalsky, pak španělsky a francou
 [6](./resources/undefined) Tehdy se v Evropě mezi obyvateli Afriky mnoho nerozlišovalo. Byli to prostě „Mórové“. Tak i v Shakespearově „Othellu“ je tento Maurský Arab obvykle uváděn jako černoch, a slovo Maur – Mór, Mouřenín – německy Mohr – stalo se v ústech lidu souznačným s pojmem černocha. Avšak ani zde, jako v „Othellu“, nešlo o skutečné černochy, ale o Maury, Maročany původu arabského. Podobně donedávna byli všichni mohamedáni považováni za Turky, ač v Evropě byli téměř vesměs původu srbského, albánského nebo bulharsko-makedonského.
 
 [7](./resources/undefined) Severský mořský pták příbuzný rackovi. _Pozn. red._
+
+</section>

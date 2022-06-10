@@ -3,15 +3,21 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Ale osud rozhodl opět jinak.
 
 Robinson, vida pobřeží ostrova prázdné a volné a nikde na dohled nic podezřelého, sestoupil ze skály a dal se směrem k moři, k západnímu břehu, na který jeho noha dosud nikdy nevkročila. Užívaje veškeré možné opatrnosti a se zbraní k obraně připravenou obhlížel dlouho břeh z úkrytu okrajových křovin, nežli se odvážil na břeh. A pak se dal k jihovýchodnímu cípu ostrova. Obešel nízkou, písčitou výšinku – a stanul náhle strnulý zděšením a hrůzou. Písek břehu byl kolem dokola poset lebkami a kostmi – lebkami a kostmi lidí!
 
-  
+</section>
+
+<section>
 
 ![](../Images/robinson_crusoe_088.jpg)
 
-  
+</section>
+
+<section>
 
 Hrůzou strnulý hleděl Robinson chvíli na nečekané divadlo. Pak, jist, že v tuto chvíli není nablízku nebezpečí – břeh byl velmi daleko od moře, plochý a volný a prost porostu a umožňoval oběma směry rozhled na mnoho set kroků – šel blíže k divadlu, které ho děsilo, a přece lákalo k prozkoumání.
 
@@ -88,3 +94,5 @@ Ale přese všechno vykrucování nebylo tak docela samozřejmé, že za celá t
 Co měl v tomto neuvědomělém stranění vidět teď jiného nežli puzení onoho skrytého, zdánlivě slepého vnitřního citu, který nás často ovládá bez našeho vědomí, ano i proti němu, a který se tak často ukazuje být o mnoho prozřetelnějším, správnějším, a bezpečnějším vůdcem našich kroků nežli všechna naše vědomá rozvaha, učenost a dobrá vůle dohromady? Anebo snad přímé řízení a vedení Prozřetelnosti? Robinson byl teď, když přestál svůj soudcovský záchvat, velmi skromný a nehodlal se vícekráte dát svést k domýš­livému spoléhání, že je pod nějakou přímou a bezprostřední dohlídkou samé ruky boží. Klonil se mnohem spíše k názoru, že je duši člověka dána schopnost, k vědomí nedospělá a jen ve zvláštních okolnostech se hlásící, aby sama zřela a tušila dále, nežli kam vidí a dosahuje náš uvědomělý rozum a naše uvážené rozhodování. Nalézal pro tento názor množství dokladů v drobných předtuchách a vnuknutích, které plní náš každodenní život, ano i v tom, jak nám napadají a přicházejí i naše domněle vědomě vymyšlené myšlenky a rozhodnutí. Obyčejně je nápad nebo rozhodnutí zde dříve a rozum k němu teprve dodatečně hledá odůvodnění. Vzpomínal na množství případů a příkladů ze svého vlastního života, které mu to činily dokonale zřejmým. A na jiné, které vedle toho zásahu vlastní duše naznačovaly, že do našeho života časem zasahuje ochranná ruka zvenčí – případy a vlivy, o jejichž původu by se byl nechtěl s nikým přít, ale které se rozhodně neodvážil klást domýšlivě na vrub přímo samé Prozřetelnosti, ale spíše je považoval za důkaz, a to za nezvratný důkaz tajemného duševního styku mezi námi, bydlícími v lidském těle a mezi příslušníky onoho, beztělesného světa.
 
 A tak, nechávaje hloubání o příčinách stranou, umiňoval si, že napříště bude věrně a pečlivě dbát podobných vnitřních puzení a nátlaků, kdekoliv se ocitne v rozporu vědomí, ve chvílích pochybností a rozpaků mezi dvěma cestami, a že uposlechne vnitřního hlasu vždy, kdykoliv se jasně přihlásí, i když k tomu nebude vidět zevního důvodu.
+
+</section>

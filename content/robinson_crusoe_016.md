@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Avšak osud chystal Robinsonovi příhodu, která měla celý jeho život velmi důkladně převrátit a postarat se, aby nepropadl duševnímu zpohodlnění.
 
 Jednoho dne, když se opět vypravil ke své lodici a ocitl se k poledni o něco dále na západ na pobřeží, zůstal náhle stát jako by zasažen bleskem.
@@ -76,3 +78,5 @@ Jestliže se však Robinson dovedl zabezpečit co nejdokonaleji proti vpádu ple
 Ze své zkušenosti mohl Robinson potvrdit, že pokoj a mír, vděčnost a spokojenost, láska a přátelství mnohem lépe k modlitbě nalaďují a ke skutečnému povznesení mysli k Bohu a k Věčnému Ideálu vedou nežli úzkost a strach. Nemohl pak již nikdy uvěřit, že by neštěstí a nemoc působily na ducha blahodárně, a tvrdil do smrti, že k poznání Boha nebyli lidé přivedeni bázní a strachem, ale vděčností a radostí duše.
 
 Za tohoto hledání vhodných míst pro svůj živý majetek dostal se Robinson jednou dále k západu a blíže k západnímu břehu nežli kdykoliv předtím. Vystoupil tam na vysokou skálu čnějící vzhůru nad lesem a rozhlížel se po moři. A tu se mu zdálo, že vidí v dáli člun. Naneštěstí neměl s sebou žádného z obou svých dalekohledů, neboť při své vycházce nepomýšlel, že by se mohl ocitnout u břehu anebo na podobné skále. Domnělé plavidlo bylo tak daleko, že si nebyl docela jist, třebas že zíral, až mu oči přecházely. Když už si byl jist, že aspoň teď již ničeho nevidí, sestoupil ze skály, ale umínil si, že již nikdy nevyjde bez menšího dalekohledu, právě tak jako nevychází bez pušky, nože a kompasu. A prozatím byl rozhodnut, že na domnělý člun nebude už myslit.
+
+</section>
