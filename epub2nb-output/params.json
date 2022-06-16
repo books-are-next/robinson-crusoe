@@ -8,7 +8,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-25T08:32:21.350Z",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -722,6 +723,6 @@
       "user": "books-are-next",
       "repo": "robinson-crusoe"
     },
-    "generatedAt": 1655271657204
+    "generatedAt": 1655364314328
   }
 }

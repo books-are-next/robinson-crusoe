@@ -12,6 +12,7 @@ meta:
   modified: '2022-01-25T08:32:21.350Z'
   edition: beletrie
   publisherShort: mkp
+  contentType: prose
 readingOrder:
   - robinson_crusoe_001.html
   - promo.html
