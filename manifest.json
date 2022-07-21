@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "defoe-robinson-crusoe-4181aa0",
-  "revision": "4181aa0",
+  "identifier": "defoe-robinson-crusoe-95f304d",
+  "revision": "95f304d",
   "readingOrder": [
     "robinson_crusoe_001.html",
     "promo.html",
@@ -40,8 +40,8 @@
     "robinson_crusoe_027.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:53:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187639956
+    "date": "Thu Jul 21 2022 14:44:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414672456
   },
   "documents": [
     {
