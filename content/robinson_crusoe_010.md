@@ -103,7 +103,7 @@ Pátraje dále, nalezl, že část, která se nejdříve rozpadla a z níž as
 
 Jsa unaven, nechal práce a bavil se rybolovem. Chytil menší rybu a přeseknuv ji, použil jí za návnadu a chytil velkou rybu, která se mu však přese všechnu opatrnost utrhla, natáhnuvši hák. Po druhé měl lepší zdar a vylovil po čtvrthodinném zápase krásný kus, přes tři kila těžký. Byl to opět týž lososovitý druh, jenž se tu vyskytoval v takové hojnosti.
 
-Z lodi odstranil zatím co vůbec mohl ovládnout, a když odtahal z dosahu přílivu i všechno upotřebitelné dříví, pokud je mohl odvléct, zbylo v lodi, jen co bylo v hlubokém podpalubí a co zůstávalo nepřístupným pro písek a vodu. Hlavním ziskem byly námořnické truhlice se šatstvem a s potřebami – hlavně ho těšily čtyři páry dobrých plachtových střevíců – a dvě další měděné mísy. Mimo to odsekal pomalu již na metrický cent olova – jak mohl zvážit na přezmenových vahách[15](./resources/undefined) vyhrabaných z kuchyně.
+Z lodi odstranil zatím co vůbec mohl ovládnout, a když odtahal z dosahu přílivu i všechno upotřebitelné dříví, pokud je mohl odvléct, zbylo v lodi, jen co bylo v hlubokém podpalubí a co zůstávalo nepřístupným pro písek a vodu. Hlavním ziskem byly námořnické truhlice se šatstvem a s potřebami – hlavně ho těšily čtyři páry dobrých plachtových střevíců – a dvě další měděné mísy. Mimo to odsekal pomalu již na metrický cent olova – jak mohl zvážit na přezmenových vahách[^15] vyhrabaných z kuchyně.
 
 Procházeje se toho dne po břehu, nalezl kus dále od lodi velikou želvu a podařilo se mu ji zaskočit a pomocí pažby ručnice převrátit včas, nežli se dostala k moři. Vážila při nejmenším 40 kilogramů a otázku, jak ji dostat domů, nebylo snadno lze rozluštit. Boje se, aby neunikla, obrátil ji zase na břicho a čekal u ní se sekerou v ruce. Trvalo však hodně dlouho, nežli se odhodlala vystrčit hlavu, načež ji zabil prudkou ranou sekery. Šel pak domů pro provaz a uvázav ho želvě za krk, vlekl ji, obrácenu na zádech, za sebou na provaze jako saně. Uvažoval při tom o výhodách různých dopravních prostředků a pohodlných cest, neboť se při tom velmi důkladně zapotil.
 
@@ -165,6 +165,6 @@ A tak pojal úmysl neomezovat se tolik jako dosud na pouhou práci s tím, co 
 
 * * *
 
-[15](./resources/undefined) Závěsné váhy, které váží pouze jedním závažím, mincíř. _Pozn. red._
+[^15]: Závěsné váhy, které váží pouze jedním závažím, mincíř. _Pozn. red._
 
 </section>

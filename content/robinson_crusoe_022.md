@@ -65,7 +65,7 @@ Když byl člun hotov, dopravili jej s Pátkem za dalších čtrnáct dní na v
 
 Když byla lodice na vodě, soudil Robinson, že by dobře uvezla i dvacet lidí v tišších vodách. A užasl, vida, s jakou lehkostí ji Pátek řídil a ovládal, přes její velikost. Zhotovil si k tomu sám veslo lopatkového tvaru s dvoumetrovým držadlem. A prohlásil, že mohou bez starosti jet, i když bude velmi velký vítr.
 
-Robinson se rozhodl opatřit loď stěžněm a plachtou. Protože však loď neměla tvaru k plachetnici určeného, rozhodl se místo jednoho vyššího stěžně postavit dva nižší, jak to podobně vídal na lodicích maurských v Africe. Jenomže maurské, tak zvané latinské plachty, veliké to trojúhelníky, tvořené dvěma ráhny, na jednom konci spojenými, z nichž jedno, lehčí, leží vodorovně dole a druhé se od jeho konce zdvihá na stěžni šikmo vzhůru, nahradil plachtami lichoběžníkovými, nesenými nahoře kratším a dole dlouhým ráhnem. Uměl s nimi nejlépe zacházet. Stěžně a ráhna byla nalezena snadno mezi krásnými štíhlými stromy lesa. K plachtám nalezl Robinson dosud dobrou plachtovinu ve své zásobě, třebaže byla už tak stará. Ale jmenovitě od doby, co byla uložena v jeskyni, byla v dobrém uschování, ač mnoho kusů již přece podlehlo zkáze. Práce ovšem nebyla snadná, neboť byla konána šídly. Avšak Pátek ukroutil k tomu z palmových vláken téměř nepřetržitelné nitě, vlastně motouzy, jež byly na koncích tak tuhé, že je bylo možno dírkami prostrkovat jako dratve[23](./resources/undefined).
+Robinson se rozhodl opatřit loď stěžněm a plachtou. Protože však loď neměla tvaru k plachetnici určeného, rozhodl se místo jednoho vyššího stěžně postavit dva nižší, jak to podobně vídal na lodicích maurských v Africe. Jenomže maurské, tak zvané latinské plachty, veliké to trojúhelníky, tvořené dvěma ráhny, na jednom konci spojenými, z nichž jedno, lehčí, leží vodorovně dole a druhé se od jeho konce zdvihá na stěžni šikmo vzhůru, nahradil plachtami lichoběžníkovými, nesenými nahoře kratším a dole dlouhým ráhnem. Uměl s nimi nejlépe zacházet. Stěžně a ráhna byla nalezena snadno mezi krásnými štíhlými stromy lesa. K plachtám nalezl Robinson dosud dobrou plachtovinu ve své zásobě, třebaže byla už tak stará. Ale jmenovitě od doby, co byla uložena v jeskyni, byla v dobrém uschování, ač mnoho kusů již přece podlehlo zkáze. Práce ovšem nebyla snadná, neboť byla konána šídly. Avšak Pátek ukroutil k tomu z palmových vláken téměř nepřetržitelné nitě, vlastně motouzy, jež byly na koncích tak tuhé, že je bylo možno dírkami prostrkovat jako dratve[^23].
 
 Práce se stěžni, plachtami, kormidlem a lodní výstrojí zabrala při ostatních pracích přes dva měsíce. A když pak loď zkoušeli, plula sice dobře před větrem, ale Robinson přidal ještě malou, trojhrannou plachtu před stěžni a vzadu za zadním stěžněm plachtu vidlicovou, načež piroga bočila velmi slušně i při větru a úhlem proti němu.
 
@@ -89,6 +89,6 @@ Konečně byla vhodná doba k výpravě zde. Doba bouří i prudkých větrů 
 
 * * *
 
-[23](./resources/undefined) Velmi pevná ševcovská nit, umotaná z několika lněných nebo konopných vláken a promazaná ševcovskou smolou. _Pozn. red._
+[^23]: Velmi pevná ševcovská nit, umotaná z několika lněných nebo konopných vláken a promazaná ševcovskou smolou. _Pozn. red._
 
 </section>

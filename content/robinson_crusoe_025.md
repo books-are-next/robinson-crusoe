@@ -57,7 +57,7 @@ A hned po výstřelu, nežli se lodníci vzpamatovali a pokud byla jejich pozo
 
 Šlo to velmi rychle. Začal nejbližším. „Tome Smithi!“ zavolal strážce. „Jsi to ty, Robe?“ odpověděl překvapený. „Ano, jsem! Pro všechny svaté, odložte ihned zbraně a vzdejte se! Jsme ztraceni – já jsem byl zajat – kdo se nevzdá je synem smrti. Na každého z vás míří teď asi osm pušek! Je to marné – já za vás prosil, a zvláště za tebe a Dicka Fergusona, a velitel je hotov dát vám milost!“ – „Komu se máme vzdát?“ ptal se Smith.
 
-„Je to náš kapitán s velitelem ostrova a s celou škadronou[25](./resources/undefined) ozbrojenců a s četou, která vás vodila po ostrově. Will Fry je těžce raněn a nevzdáte-li se hned, postřílejí vás jako prve zastřelili člunaře a Billa!“ – Znamenitý hoch lhal, ačkoliv mluvil přesně pravdu. – „Dostaneme-li milost, pak se tedy vzdáme!“ řekl Smith, jenž po prvých slovech ulehl, aby se kryl. – „Já se optám,“ odvětil Rob. A tu zavolal kapitán. – „Tome Smithi, poznáte můj hlas. Jestliže ihned složíte zbraně a vzdáte se, dostanete všichni milost, až na Willa Atkinse!“ – „Pro lásku boží, kapitáne!“ vykřikl zděšený Atkins, „dejte mi také milost! Copak jsem udělal zrovna já? Ostatní jednali jako já!“
+„Je to náš kapitán s velitelem ostrova a s celou škadronou[^25] ozbrojenců a s četou, která vás vodila po ostrově. Will Fry je těžce raněn a nevzdáte-li se hned, postřílejí vás jako prve zastřelili člunaře a Billa!“ – Znamenitý hoch lhal, ačkoliv mluvil přesně pravdu. – „Dostaneme-li milost, pak se tedy vzdáme!“ řekl Smith, jenž po prvých slovech ulehl, aby se kryl. – „Já se optám,“ odvětil Rob. A tu zavolal kapitán. – „Tome Smithi, poznáte můj hlas. Jestliže ihned složíte zbraně a vzdáte se, dostanete všichni milost, až na Willa Atkinse!“ – „Pro lásku boží, kapitáne!“ vykřikl zděšený Atkins, „dejte mi také milost! Copak jsem udělal zrovna já? Ostatní jednali jako já!“
 
 To však nebyla pravda. Při vypuknutí vzpoury vložil tento muž první na kapitána ruku a pak spoutanému nejen nadával, ale i barbarsky s ním zacházel. Kromě člunaře a toho, jenž kapitána ještě na ostrově nožem ohrožoval a teď byl mrtev, byl z nejhorších. Kapitánova odpověď zněla, že rozhodnutí teď už nezávisí od něho, ale od guvernéra ostrova, který má o všem velmi podrobnou zprávu z výslechu, jemuž byli podrobeni ti, kdo zbyli na živu z prvého člunu. Že dal ihned popravit Phila Stevense, jejž sám viděl kapitánovi hrozit nožem. – Ale vzdají-li se všichni ihned na milost a Atkins sám na milost i nemilost, že se kapitán sám přimluví. Ne-li, že si může raději sám hned hlavu prorazit kulí.
 
@@ -145,6 +145,6 @@ Na Robinsonovu žádost udělala loď nevelkou okliku, aby zastavila u břehů 
 
 * * *
 
-[25](./resources/undefined) Jednotka jezdectva asi o sto koních, tady míněno zřejmě jako velký vojenský oddíl obecně. _Pozn. red._
+[^25]: Jednotka jezdectva asi o sto koních, tady míněno zřejmě jako velký vojenský oddíl obecně. _Pozn. red._
 
 </section>
