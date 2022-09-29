@@ -27,7 +27,7 @@ Robinson přijal tuto zprávu s radostí. Vzpomínal v minulé době často s�
 
 Přivezené zboží obsahovalo všechno domácí a plantážní nářadí pro Robinsona a mimo to zásobu nástrojů, železného zboží a tkanin, které byly v Brazílii velmi žádané a za které Robinson velmi snadno stržil více nežli čtyřnásobnou částku, za niž byly v Anglii koupeny. A kapitán nepřijal za svoji námahu a starost více nežli trochu tabáku, který Robinson sám vypěstil.
 
-Teď na tom byl ovšem Robinson mnohem lépe nežli jeho soused. Ze stržených peněz koupil si černého otroka, najal ještě jednoho bílého sluhu a pustil se s nimi s novou chutí do práce. Plantáž dosáhla teď velmi rychle znamenitého rozmachu a úspěchu. V následujícím roce sklidil Robinson padesát balíků výborného tabáku – balík přes padesát metrických centů[8](./resources/undefined) – a uložil je v bezpečném skladišti až do návratu lisabonské lodi, neboť nechtěl obchodovat s nikým nežli se svým dobrodincem a přítelem.
+Teď na tom byl ovšem Robinson mnohem lépe nežli jeho soused. Ze stržených peněz koupil si černého otroka, najal ještě jednoho bílého sluhu a pustil se s nimi s novou chutí do práce. Plantáž dosáhla teď velmi rychle znamenitého rozmachu a úspěchu. V následujícím roce sklidil Robinson padesát balíků výborného tabáku – balík přes padesát metrických centů[^8] – a uložil je v bezpečném skladišti až do návratu lisabonské lodi, neboť nechtěl obchodovat s nikým nežli se svým dobrodincem a přítelem.
 
 Nesnáze se pomalu odstranily a Robinsonův osud počal spět ke klidné zámožnosti. Ale s tímto stavem věcí dostavila se i myšlenka, že celé toto jeho počínání nemá vlastně mnoho smyslu. Život, který teď vedl, dokonce nebyl tím, kvůli čemu opustil otcovský dům. V klidné zámožnosti mohl trávit život i doma. Zde nebylo dobrodružství – a vše, co se mu doma protivilo, bylo zde ještě horší. Jednotvárnost společnosti – jednotvárnost denní práce – oč tížeji doléhaly naň v této samotě mezi cizinci, kteří sice byli tak odlišní ode všeho anglického, ale přitom také ode všeho, co si Robinson kdy představoval v touze po dobrodružstvích. Jediný soused – onen lisabonský Angličan Wells – byl jediným, s kým se mohl stýkat, a to teď, v návalu práce, čím dále tím řidčeji. A životní prostředky byly velmi primitivní a neuspokojivé. A tak počínal pomalu hledět na svůj osud s rozmrzelostí, ano, vzpomínal na svoji bludnou pouť kolem břehů Afriky jako na skutečnou blaženost proti nynější jednotvárné nudě. Neklidná mysl nedovedla uvyknout tomuto stále stejnému a předem určenému rozvrhu každodenní práce a vždy téhož zaměstnání. A tak využíval Robinson každé příležitosti k návštěvě města – což se ovšem mohlo dít jen velmi pořídku. Za čtyři léta pobytu v Brazílii naučil se ovšem slušně portugalské řeči a při svých návštěvách v San Salvadoru bavíval se s místními obchodníky a plantážníky do města přijíždějícími, vypravuje jim o svých příhodách. Ovšem, že se řeč dostala i na obchod s černochy a na to, jak snadno je v Africe za různé trety a brakové zboží – skleněné perly, hračky, nože, sekerky, nůžky – dostat nejen zlatý prach, slonovinu a guinejské plodiny, ale i černochy pro otrockou práci v Brazílii.
 
@@ -47,7 +47,7 @@ Pod dojmem těchto úvah rozhodl se učinit aspoň vše možné, aby výsledky j
 
 Loď byla vypravena velmi brzy, zboží dodáno a Robinson chystal se na cestu, nedočkav se ani, jak doufal, návratu svého kapitána. V mrzuté náladě vstoupil na palubu a 1. září 1659, právě osm let po dni, kdy v Hullu nastoupil svoji první nešťastnou pouť, vyplul na novou svoji odyseu.
 
-Loď byla dobrá, stopadesátitunová oceánská loď portugalského typu, ne právě zvláště rychlá, ale schopná pojmout množství zboží v prostorném svém břichu, což bylo pro obchod s černochy nejdůležitější. Byla vyzbrojena šesti dobrými děly a posádku tvořilo čtrnáct mužů kromě kapitána, plavčíka a „superkarga“[9](./resources/undefined) Robinsona. Náklad byl velmi lehký – korálky, perly, lastury, zrcátka, hračky, trety, ozdoby, nože, nůžky, sekerky a sekery, a podobné věci, jež jsou černochům vítány.
+Loď byla dobrá, stopadesátitunová oceánská loď portugalského typu, ne právě zvláště rychlá, ale schopná pojmout množství zboží v prostorném svém břichu, což bylo pro obchod s černochy nejdůležitější. Byla vyzbrojena šesti dobrými děly a posádku tvořilo čtrnáct mužů kromě kapitána, plavčíka a „superkarga“[^9] Robinsona. Náklad byl velmi lehký – korálky, perly, lastury, zrcátka, hračky, trety, ozdoby, nože, nůžky, sekerky a sekery, a podobné věci, jež jsou černochům vítány.
 
 Cesta vedla nejprve přímo k severu podél pobřeží, aby asi na jedenáctém stupni severní šířky odbočila k východu, k Africe. Byla to obvyklá cesta plachetních lodí v tomto ročním období, neboť slibovala nejhladší plavbu a nejvhodnější vítr. Jenomže snad byla nastoupena trochu dříve, nežli bylo pravidlem. Přes strašlivé vedro u brazilského pobřeží plynula docela hladce a za velmi dobrého počasí. Od mysu Sv. Rocha zamířili k severovýchodu, nechávajíce ostrov Fernando de Noronha východně a míříce rovnou k ostrovům Kapverdským. Po dvanáctidenní plavbě přepluli rovník a měli právě půl cesty za sebou, když byli náhle zachváceni strašlivou vichřicí. Zuřivý vítr vyvedl je úplně z jejich směru. Nezbylo jim nežli plout s větrem, aby nebyli rozdrceni jeho prudkostí. K tomu se vítr točil a měnil směr. Počal od jihovýchodu, přeskočil na severozápad a ustálil se pak na severovýchodu. Mraky znemožňovaly veškeré zeměměrné pozorování a nebylo možno určit ani přibližně, do kterých končin oceánu byli zahnáni.
 
@@ -83,7 +83,7 @@ S ohromnou námahou podařilo se spustit člun na vodu. Všech jedenáct lidí 
 
 Veslovali ze všech sil, ale v srdci cítili, že je to všechno nadarmo. Bylo jasno, že nebude-li člun vlnami převržen, bude jimi dojista rozbit příbojem na skaliskách pobřeží. Přesto pracovali ze všech sil, ženouce se tak vlastním přičiněním zkáze vstříc.
 
-Neviděli ani, je-li břeh skalistý anebo je-li to písečná mělčina. Jedinou nadějí bylo, že se ocitnou v nějaké zátoce anebo v ústí řeky, anebo že se dostanou do závětří za nějakým skalním ostrohem[10](./resources/undefined).
+Neviděli ani, je-li břeh skalistý anebo je-li to písečná mělčina. Jedinou nadějí bylo, že se ocitnou v nějaké zátoce anebo v ústí řeky, anebo že se dostanou do závětří za nějakým skalním ostrohem[^10].
 
 Veslovali tak asi půlhodiny, když se přihnala nezvykle vysoká vlna. Její přiblížení naplnilo plavce takovým zděšením, že se dali do křiku a že ztratili vládu nad vesly. Bílý hřeben zasáhl loď a člun se převrhl a rozházel svůj obsah na všechny strany.
 
@@ -105,10 +105,10 @@ Konečně byl vržen na skálu. Náraz by jej byl málem připravil o život. U
 
 * * *
 
-[8](./resources/undefined) 1 metrický cent = 100 kilogramů. _Pozn. red._
+[^8]: 1 metrický cent = 100 kilogramů. _Pozn. red._
 
-[9](./resources/undefined) Dozorce nad pořizováním zboží, jeho prodejem či výměnou v přístavech, v té době po kapitánovi druhá nejdůležitější osoba na obchodní lodi. _Pozn. red._
+[^9]: Dozorce nad pořizováním zboží, jeho prodejem či výměnou v přístavech, v té době po kapitánovi druhá nejdůležitější osoba na obchodní lodi. _Pozn. red._
 
-[10](./resources/undefined) Příkrý skalní výběžek. _Pozn. red._
+[^10]: Příkrý skalní výběžek. _Pozn. red._
 
 </section>

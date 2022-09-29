@@ -53,7 +53,7 @@ Nero vyrazil za ním, a když přišel Robinson dolů, nalezl zvíře již mrtv
 
 Stáhl zvíře a napjal jeho kůži na ohradu k sušení. Šlo mu to dobře, neboť se za svého pobytu v Brazílii na plantáži naučil lecčemu, o čem dříve neměl ponětí. Prvé dva roky, kdy byl nucen konat si všechny práce sám, byly mu teď velmi k dobrému.
 
-Rozčtvrtil zvíře a přemýšlel, co s masem. V horku dne nemohlo se dlouho udržet. Navlékl tedy hřbet na železný nabiják[14](./resources/undefined), jenž mu již posloužil za rožeň při pečení jeho „krocanů“, aby jej upekl nad ohněm. Ostatní maso připravil k vyuzení. Nadělav do něho zářezů, vysypal je solí a potřel je solí i po vrchu, načež je složil do soudku po střelném prachu, z něhož vyrazil dno, a pokryv je listím, zatížil je kamením. Nedělal toho sice nikdy sám, ale viděl to dělat svého souseda Wellse a věděl, že před uzením je dlužno maso nasolit. Jenomže Wells přidával do soli střelného prachu, jenž prý dodává masu lepší příchuti. To bylo ovšem pro Robinsona nemyslitelným plýtváním. Sůl mohl si však vždycky nahradit.
+Rozčtvrtil zvíře a přemýšlel, co s masem. V horku dne nemohlo se dlouho udržet. Navlékl tedy hřbet na železný nabiják[^14], jenž mu již posloužil za rožeň při pečení jeho „krocanů“, aby jej upekl nad ohněm. Ostatní maso připravil k vyuzení. Nadělav do něho zářezů, vysypal je solí a potřel je solí i po vrchu, načež je složil do soudku po střelném prachu, z něhož vyrazil dno, a pokryv je listím, zatížil je kamením. Nedělal toho sice nikdy sám, ale viděl to dělat svého souseda Wellse a věděl, že před uzením je dlužno maso nasolit. Jenomže Wells přidával do soli střelného prachu, jenž prý dodává masu lepší příchuti. To bylo ovšem pro Robinsona nemyslitelným plýtváním. Sůl mohl si však vždycky nahradit.
 
 Opravdu? – projelo mu vtom hlavou. Neboť jednoho měl velmi citelný nedostatek – citelný teď, když na to poprvé řádně pomyslil. Nádobí! Lodní kuchyně byla u předního stožáru a když se dostal na loď, ležela spolu s ostatní přídí pod vodou. A tak měl na nádobách jenom to, co nalezl v komoře a v kapitánově a kormidelníkově kabině: tři džbánky, kávový kotlík, několik číšek, cínovou číši na pití, hrneček na kávu a k tomu láhve a kameninové džbánky s lihovinami. Neměl tedy opravdu, v čem by mohl vařit větší množství vody a větší předměty, neboť kotlík nestačil ani na necelé dva litry. – Ovšem neměl ani kávy. – Bude tedy s vyvářením soli zle, pokud se mu nepodaří vyrobit si potřebné nádobí. Neboť zdejší břeh, pokud ho poznal, i půda pod prstí byly všude složeny z písku a kamení na skalním podkladě a bylo tedy nemožno zřídit tam přirozený „solný sad“, jenž žádá nepromokavou půdu pro nádrže.
 
@@ -121,6 +121,6 @@ Zatím se ukázal zajímavý zjev. Kůly jeho palisády se skoro všechny ujaly!
 
 * * *
 
-[14](./resources/undefined) Nástroj k nabíjení střelných zbraní. _Pozn. red._
+[^14]: Nástroj k nabíjení střelných zbraní. _Pozn. red._
 
 </section>
