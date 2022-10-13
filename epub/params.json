@@ -25,6 +25,8 @@
       "brAfter": "MLP_text_bez1radku_-0-12-\nMLP_obrazky_-12-12-",
       "blockquote": "",
       "figure": "",
+      "centered": "",
+      "verse": "",
       "em": "MLP_titulka_prekladatel\nMLP_znak_kurziva_9b",
       "strong": "MLP_tiraz_podnazev\nMLP_tiraz_autor_a_nazev\n",
       "remove": "",
@@ -40,9 +42,9 @@
             "filename": "robinson_crusoe_001.md",
             "xhtml": "robinson_crusoe_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -52,7 +54,7 @@
             "id": 1,
             "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -60,9 +62,9 @@
             "filename": "robinson_crusoe_003.md",
             "xhtml": "robinson_crusoe_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -70,9 +72,9 @@
             "filename": "robinson_crusoe_004.md",
             "xhtml": "robinson_crusoe_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -84,8 +86,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_006.md",
@@ -95,8 +97,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_007.md",
@@ -106,8 +108,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_008.md",
@@ -117,8 +119,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_009.md",
@@ -128,8 +130,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_010.md",
@@ -139,8 +141,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_011.md",
@@ -150,8 +152,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_012.md",
@@ -161,8 +163,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_013.md",
@@ -172,8 +174,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_014.md",
@@ -183,8 +185,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X"
+            "title": "X",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_015.md",
@@ -194,8 +196,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_016.md",
@@ -205,8 +207,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII"
+            "title": "XII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_017.md",
@@ -216,8 +218,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII"
+            "title": "XIII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_018.md",
@@ -227,8 +229,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIV"
+            "title": "XIV",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_019.md",
@@ -238,8 +240,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XV"
+            "title": "XV",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_020.md",
@@ -249,8 +251,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVI"
+            "title": "XVI",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_021.md",
@@ -260,8 +262,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVII"
+            "title": "XVII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_022.md",
@@ -271,8 +273,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVIII"
+            "title": "XVIII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_023.md",
@@ -282,8 +284,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIX"
+            "title": "XIX",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_024.md",
@@ -293,8 +295,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XX"
+            "title": "XX",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_025.md",
@@ -304,8 +306,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXI"
+            "title": "XXI",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_026.md",
@@ -315,16 +317,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXII"
+            "title": "XXII",
+            "children": []
           },
           {
             "filename": "robinson_crusoe_027.md",
             "xhtml": "robinson_crusoe_027.xhtml",
             "id": 26,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -724,6 +726,6 @@
       "user": "books-are-next",
       "repo": "robinson-crusoe"
     },
-    "generatedAt": 1654882989750
+    "generatedAt": 1665415920198
   }
 }
