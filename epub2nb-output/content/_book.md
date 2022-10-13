@@ -14,10 +14,7 @@ meta:
   publisherShort: mkp
   contentType: prose
 readingOrder:
-  - robinson_crusoe_001.html
   - promo.html
-  - robinson_crusoe_003.html
-  - robinson_crusoe_004.html
   - robinson_crusoe_005.html
   - robinson_crusoe_006.html
   - robinson_crusoe_007.html
@@ -40,7 +37,7 @@ readingOrder:
   - robinson_crusoe_024.html
   - robinson_crusoe_025.html
   - robinson_crusoe_026.html
-  - robinson_crusoe_027.html
+  - about.html
 tocBase:
   - id: section-1
     children:
